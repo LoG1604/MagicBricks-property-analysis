@@ -1,0 +1,528 @@
+property_id,city,locality,property_type,bhk,area_sqft,furnishing,bathrooms,balconies,transaction_type,property_status,distance_from_city_center_km,floor_no,posted_by,amenities,posted_date,price_unit,price_lakh,monthly_rent,price_per_sqft,is_price_outlier,posted_month
+MB100002,Hyderabad,Gachibowli,Villa,2.0,1560,Fully Furnished,2.0,2.0,Rent,New Launch,9.6,9,Dealer,Club House,2026-08-24,Per Month,,5000.0,3.2051282051282053,False,2026-08
+MB100005,Noida,Sector 150,Builder Floor,3.0,1956,Semi-Furnished,1.0,1.0,Rent,Under Construction,8.1,5,Dealer,"Swimming Pool, Park, Lift",2025-01-05,Per Month,,5000.0,2.556237218813906,False,2025-01
+MB100011,Lucknow,Aliganj,Apartment,2.0,1492,Semi-Furnished,3.0,3.0,Rent,New Launch,4.7,2,Dealer,"Lift, Security, Power Backup, Park",2026-02-24,Per Month,,5000.0,3.351206434316354,False,2026-02
+MB100012,Bengaluru,Marathahalli,Independent House,2.0,1573,Semi-Furnished,1.0,2.0,Rent,Under Construction,11.2,10,Owner,"Lift, Power Backup, Gym, Park",2026-02-05,Per Month,,5000.0,3.178639542275906,False,2026-02
+MB100015,Pune,Wakad,Independent House,5.0,2762,Unfurnished,1.0,2.0,Rent,New Launch,7.3,5,Dealer,Club House,2025-01-20,Per Month,,5000.0,1.8102824040550325,False,2025-01
+MB100017,Ghaziabad,Crossings Republik,Apartment,3.0,2435,Unfurnished,4.0,2.0,Rent,New Launch,19.9,2,Dealer,"Swimming Pool, Parking, Gym",2026-01-28,Per Month,,5000.0,2.0533880903490758,False,2026-01
+MB100022,Pune,Baner,Penthouse,3.0,1801,Fully Furnished,3.0,3.0,Rent,Ready to Move,17.0,5,Owner,"Gym, Lift",2026-02-01,Per Month,,5000.0,2.77623542476402,False,2026-02
+MB100024,Lucknow,Sushant Golf City,Builder Floor,3.0,2126,Unfurnished,3.0,2.0,Rent,Ready to Move,21.0,3,Owner,Security,2026-02-26,Per Month,,5000.0,2.351834430856068,False,2026-02
+MB100025,Gurugram,Sector 49,Apartment,4.0,2183,Semi-Furnished,3.0,1.0,Rent,New Launch,2.8,4,Owner,"Park, Gym, Parking, Security",2025-12-27,Per Month,,5000.0,2.2904260192395784,False,2025-12
+MB100029,Pune,Wakad,Independent House,2.0,1797,Fully Furnished,2.0,1.0,Rent,Under Construction,20.7,4,Owner,Club House,2026-04-21,Per Month,,5000.0,2.782415136338342,False,2026-04
+MB100030,Noida,Sector 93A,Penthouse,5.0,2651,Unfurnished,3.0,1.0,Rent,Ready to Move,11.3,1,Builder,Security,2025-04-05,Per Month,,5000.0,1.8860807242549982,False,2025-04
+MB100031,Pune,Wakad,Villa,3.0,1796,Semi-Furnished,3.0,2.0,Rent,Resale,12.0,3,Dealer,"Parking, Club House",2025-04-08,Per Month,,5000.0,2.7839643652561246,False,2025-04
+MB100038,Delhi,Rohini,Independent House,4.0,2460,Semi-Furnished,1.0,2.0,Rent,Ready to Move,18.0,4,Dealer,Parking,2025-08-13,Per Month,,5000.0,2.032520325203252,False,2025-08
+MB100039,Delhi,Dwarka,Villa,3.0,1863,Unfurnished,2.0,0.0,Rent,Under Construction,11.4,4,Dealer,"Park, Club House",2026-07-04,Per Month,,5000.0,2.6838432635534084,False,2026-07
+MB100040,Mumbai,Thane West,Apartment,4.0,2360,Semi-Furnished,3.0,4.0,Rent,Under Construction,4.5,1,Dealer,"Power Backup, Club House",2025-10-18,Per Month,,5000.0,2.1186440677966103,False,2025-10
+MB100042,Bengaluru,HSR Layout,Independent House,2.0,1569,Unfurnished,2.0,2.0,Rent,New Launch,19.7,2,Owner,Club House,2026-06-01,Per Month,,5000.0,3.186743148502231,False,2026-06
+MB100049,Noida,Sector 75,Apartment,2.0,1669,Unfurnished,1.0,2.0,Rent,New Launch,22.4,0,Owner,"Club House, Lift, Parking",2025-03-23,Per Month,,5000.0,2.995805871779509,False,2025-03
+MB100052,Delhi,Dwarka,Apartment,3.0,1897,Fully Furnished,,1.0,Rent,New Launch,22.5,6,Dealer,"Gym, Club House, Swimming Pool, Park",2026-04-21,Per Month,,5000.0,2.635740643120717,False,2026-04
+MB100058,Mumbai,Borivali,Villa,4.0,2552,Unfurnished,3.0,2.0,Rent,Ready to Move,12.0,4,Owner,Gym,2025-01-03,Per Month,,5000.0,1.9592476489028212,False,2025-01
+MB100068,Pune,Unknown,Apartment,4.0,2077,Semi-Furnished,2.0,0.0,Rent,Ready to Move,3.3,0,Builder,"Gym, Power Backup, Security",2026-05-16,Per Month,,5000.0,2.407318247472316,False,2026-05
+MB100071,Mumbai,Chembur,Apartment,3.0,2308,Semi-Furnished,3.0,2.0,Rent,New Launch,2.0,6,Unknown,"Security, Power Backup",2025-01-12,Per Month,,5000.0,2.166377816291161,False,2025-01
+MB100072,Mumbai,Chembur,Apartment,4.0,2408,Unfurnished,1.0,2.0,Rent,New Launch,1.1,2,Owner,"Swimming Pool, Power Backup, Lift",2025-02-04,Per Month,,5000.0,2.0764119601328903,False,2025-02
+MB100074,Lucknow,Sushant Golf City,Apartment,3.0,2020,Fully Furnished,3.0,2.0,Rent,Under Construction,4.5,2,Builder,"Swimming Pool, Gym, Lift",2026-01-16,Per Month,,5000.0,2.4752475247524752,False,2026-01
+MB100075,Pune,Hinjewadi,Independent House,2.0,1198,Unfurnished,2.0,2.0,Rent,Resale,9.9,2,Owner,"Swimming Pool, Power Backup",2025-12-27,Per Month,,5000.0,4.173622704507513,False,2025-12
+MB100087,Gurugram,Sohna Road,Builder Floor,3.0,1826,Fully Furnished,2.0,1.0,Rent,Under Construction,8.9,1,Dealer,"Park, Lift",2025-08-18,Per Month,,5000.0,2.738225629791895,False,2025-08
+MB100089,Hyderabad,Kondapur,Apartment,3.0,1748,Semi-Furnished,1.0,1.0,Rent,Resale,0.5,5,Dealer,Power Backup,2026-04-01,Per Month,,5000.0,2.860411899313501,False,2026-04
+MB100092,Delhi,Rohini,Independent House,4.0,1786,Fully Furnished,2.0,2.0,Rent,Under Construction,20.7,3,Builder,"Gym, Club House",2026-06-21,Per Month,,5000.0,2.799552071668533,False,2026-06
+MB100094,Pune,Hinjewadi,Apartment,2.0,1347,Semi-Furnished,1.0,2.0,Rent,Resale,15.5,4,Owner,Gym,2025-03-04,Per Month,,5000.0,3.7119524870081664,False,2025-03
+MB100104,Hyderabad,Kukatpally,Villa,4.0,2553,Semi-Furnished,1.0,4.0,Rent,Ready to Move,17.0,5,Dealer,"Club House, Parking",2025-05-12,Per Month,,5000.0,1.9584802193497846,False,2025-05
+MB100108,Ghaziabad,Raj Nagar,Apartment,3.0,2409,Unfurnished,2.0,2.0,Rent,Resale,12.1,2,Owner,"Club House, Power Backup, Security",2025-07-01,Per Month,,5000.0,2.0755500207555,False,2025-07
+MB100109,Hyderabad,Kukatpally,Independent House,5.0,2535,Semi-Furnished,2.0,2.0,Rent,Under Construction,21.1,2,Owner,"Club House, Parking, Park, Security",2026-06-17,Per Month,,5000.0,1.9723865877712032,False,2026-06
+MB100113,Noida,Sector 93A,Apartment,2.0,1516,Semi-Furnished,1.0,1.0,Rent,Ready to Move,11.3,9,Dealer,"Security, Power Backup, Park",2025-08-15,Per Month,,5000.0,3.2981530343007917,False,2025-08
+MB100117,Hyderabad,Madhapur,Studio Apartment,3.0,1665,Semi-Furnished,1.0,2.0,Rent,Resale,2.2,5,Dealer,"Security, Swimming Pool",2025-06-25,Per Month,,5000.0,3.003003003003003,False,2025-06
+MB100119,Ghaziabad,Raj Nagar,Builder Floor,3.0,1985,Unfurnished,3.0,2.0,Rent,Under Construction,16.8,4,Owner,"Gym, Security, Lift, Parking",2026-06-26,Per Month,,5000.0,2.5188916876574305,False,2026-06
+MB100126,Noida,Sector 93A,Builder Floor,5.0,2937,Semi-Furnished,1.0,1.0,Rent,New Launch,1.0,6,Owner,"Security, Power Backup, Gym, Park",2026-02-16,Per Month,,5000.0,1.7024174327545114,False,2026-02
+MB100133,Ghaziabad,Crossings Republik,Apartment,4.0,2056,Unfurnished,2.0,2.0,Rent,New Launch,19.6,5,Owner,"Swimming Pool, Park",2025-10-11,Per Month,,5000.0,2.431906614785992,False,2025-10
+MB100140,Hyderabad,Gachibowli,Builder Floor,4.0,2469,Semi-Furnished,1.0,2.0,Rent,Under Construction,11.6,2,Owner,"Parking, Lift, Park",2026-04-11,Per Month,,5000.0,2.025111381125962,False,2026-04
+MB100141,Mumbai,Powai,Apartment,3.0,1772,Fully Furnished,2.0,2.0,Rent,Under Construction,6.2,5,Owner,"Swimming Pool, Lift, Security",2026-03-04,Per Month,,5000.0,2.8216704288939054,False,2026-03
+MB100144,Ghaziabad,Siddharth Vihar,Apartment,3.0,1847,Semi-Furnished,3.0,1.0,Rent,Ready to Move,18.9,0,Dealer,"Parking, Security, Club House, Power Backup",2025-05-29,Per Month,,5000.0,2.707092582566324,False,2025-05
+MB100155,Lucknow,Sushant Golf City,Penthouse,1.0,1177,Semi-Furnished,3.0,1.0,Rent,Ready to Move,10.8,5,Unknown,Park,2025-07-18,Per Month,,5000.0,4.248088360237893,False,2025-07
+MB100158,Mumbai,Borivali,Apartment,2.0,1756,Semi-Furnished,3.0,2.0,Rent,Ready to Move,21.2,3,Owner,"Power Backup, Swimming Pool",2026-05-11,Per Month,,5000.0,2.847380410022779,False,2026-05
+MB100161,Bengaluru,Marathahalli,Penthouse,4.0,2562,Unfurnished,2.0,2.0,Rent,Resale,19.7,5,Dealer,"Park, Club House, Security",2025-11-11,Per Month,,5000.0,1.95160031225605,False,2025-11
+MB100163,Gurugram,Sector 57,Builder Floor,2.0,1734,Semi-Furnished,1.0,1.0,Rent,Ready to Move,13.7,3,Owner,"Gym, Lift, Power Backup",2025-03-10,Per Month,,5000.0,2.883506343713956,False,2025-03
+MB100166,Bengaluru,Electronic City,Independent House,1.0,1087,Fully Furnished,2.0,2.0,Rent,New Launch,15.6,4,Owner,"Swimming Pool, Security",2025-12-18,Per Month,,5000.0,4.599816007359705,False,2025-12
+MB100169,Noida,Sector 150,Independent House,2.0,1379,Fully Furnished,1.0,1.0,Rent,Under Construction,6.8,2,Owner,Swimming Pool,2025-12-04,Per Month,,5000.0,3.625815808556925,False,2025-12
+MB100173,Hyderabad,Manikonda,Builder Floor,1.0,1094,Unfurnished,2.0,1.0,Rent,Under Construction,6.8,2,Owner,Power Backup,2026-03-01,Per Month,,5000.0,4.570383912248629,False,2026-03
+MB100174,Bengaluru,Yelahanka,Builder Floor,4.0,2357,Unfurnished,1.0,1.0,Rent,New Launch,16.8,2,Dealer,"Swimming Pool, Lift, Club House",2026-04-30,Per Month,,5000.0,2.1213406873143827,False,2026-04
+MB100184,Pune,Hadapsar,Apartment,3.0,2038,Unfurnished,2.0,0.0,Rent,Resale,20.7,6,Builder,"Club House, Swimming Pool, Park",2025-12-17,Per Month,,5000.0,2.4533856722276743,False,2025-12
+MB100188,Pune,Kharadi,Apartment,3.0,1911,Semi-Furnished,1.0,2.0,Rent,New Launch,4.3,3,Dealer,"Parking, Park, Lift, Security",2025-01-13,Per Month,,5000.0,2.6164311878597593,False,2025-01
+MB100191,Greater Noida,Knowledge Park,Apartment,3.0,1885,Unfurnished,4.0,2.0,Rent,Resale,3.9,2,Dealer,None,2025-02-05,Per Month,,5000.0,2.6525198938992043,False,2025-02
+MB100192,Ghaziabad,Vaishali,Builder Floor,2.0,1320,Fully Furnished,2.0,0.0,Rent,New Launch,7.6,4,Dealer,Security,2025-05-25,Per Month,,5000.0,3.787878787878788,False,2025-05
+MB100197,Noida,Sector 93A,Apartment,3.0,1703,Fully Furnished,1.0,2.0,Rent,Ready to Move,3.9,4,Dealer,Swimming Pool,2025-12-04,Per Month,,5000.0,2.935995302407516,False,2025-12
+MB100199,Noida,Sector 93A,Apartment,3.0,1730,Semi-Furnished,1.0,2.0,Rent,New Launch,19.3,2,Dealer,Swimming Pool,2025-07-11,Per Month,,5000.0,2.8901734104046244,False,2025-07
+MB100201,Delhi,Rohini,Apartment,3.0,1456,Fully Furnished,1.0,1.0,Rent,Resale,6.5,3,Dealer,"Park, Security, Parking",2025-07-03,Per Month,,5000.0,3.434065934065934,False,2025-07
+MB100218,Gurugram,Sector 57,Villa,3.0,2024,Fully Furnished,2.0,2.0,Rent,Resale,16.6,4,Dealer,"Lift, Power Backup, Swimming Pool",2025-01-04,Per Month,,5000.0,2.4703557312252964,False,2025-01
+MB100222,Delhi,Vasant Kunj,Apartment,2.0,1437,Semi-Furnished,3.0,3.0,Rent,Under Construction,3.6,5,Owner,"Lift, Gym",2025-06-13,Per Month,,5000.0,3.4794711203897006,False,2025-06
+MB100224,Greater Noida,Pari Chowk,Apartment,3.0,1941,Fully Furnished,3.0,0.0,Rent,New Launch,8.9,2,Owner,"Lift, Park, Parking",2025-11-22,Per Month,,5000.0,2.575991756826378,False,2025-11
+MB100227,Gurugram,Sohna Road,Independent House,3.0,1694,Fully Furnished,3.0,4.0,Rent,New Launch,13.6,2,Dealer,"Parking, Swimming Pool, Park",2026-01-04,Per Month,,5000.0,2.9515938606847696,False,2026-01
+MB100228,Lucknow,Indira Nagar,Studio Apartment,4.0,2097,Fully Furnished,2.0,2.0,Rent,Ready to Move,17.5,5,Owner,"Lift, Gym, Parking",2026-08-24,Per Month,,5000.0,2.384358607534573,False,2026-08
+MB100232,Hyderabad,Kondapur,Apartment,4.0,2219,Fully Furnished,2.0,0.0,Rent,Resale,8.0,3,Dealer,"Parking, Park",2026-06-14,Per Month,,5000.0,2.253267237494367,False,2026-06
+MB100233,Lucknow,Sushant Golf City,Apartment,3.0,1693,Fully Furnished,2.0,2.0,Rent,Ready to Move,0.3,6,Owner,"Park, Swimming Pool, Security, Lift",2026-06-25,Per Month,,5000.0,2.9533372711163617,False,2026-06
+MB100235,Pune,Wakad,Builder Floor,3.0,2012,Semi-Furnished,1.0,2.0,Rent,New Launch,15.6,4,Owner,"Swimming Pool, Club House, Gym, Parking",2025-09-08,Per Month,,5000.0,2.485089463220676,False,2025-09
+MB100237,Pune,Hadapsar,Penthouse,2.0,1376,Semi-Furnished,1.0,2.0,Rent,Ready to Move,11.3,3,Dealer,"Security, Gym, Club House, Swimming Pool",2026-05-09,Per Month,,5000.0,3.633720930232558,False,2026-05
+MB100238,Hyderabad,Kukatpally,Apartment,5.0,2679,Semi-Furnished,3.0,0.0,Rent,Resale,1.9,0,Dealer,"Park, Lift, Club House",2025-09-06,Per Month,,5000.0,1.866368047779022,False,2025-09
+MB100240,Bengaluru,Yelahanka,Apartment,2.0,1481,Fully Furnished,1.0,1.0,Rent,Resale,18.3,3,Dealer,"Club House, Park, Parking",2026-02-14,Per Month,,5000.0,3.37609723160027,False,2026-02
+MB100245,Hyderabad,Manikonda,Independent House,3.0,2033,Semi-Furnished,2.0,2.0,Rent,Ready to Move,15.1,3,Unknown,Park,2025-03-10,Per Month,,5000.0,2.459419576979833,False,2025-03
+MB100246,Mumbai,Borivali,Independent House,3.0,1731,Semi-Furnished,3.0,1.0,Rent,Ready to Move,22.0,0,Owner,Park,2025-06-13,Per Month,,5000.0,2.8885037550548818,False,2025-06
+MB100252,Delhi,Vasant Kunj,Villa,3.0,1949,Fully Furnished,3.0,1.0,Rent,Resale,11.7,5,Builder,"Power Backup, Gym, Club House",2026-05-13,Per Month,,5000.0,2.565418163160595,False,2026-05
+MB100258,Gurugram,Golf Course Road,Apartment,4.0,2660,Semi-Furnished,1.0,1.0,Rent,New Launch,4.6,3,Owner,"Parking, Swimming Pool, Power Backup, Lift",2025-05-06,Per Month,,5000.0,1.8796992481203008,False,2025-05
+MB100260,Gurugram,Sector 57,Apartment,4.0,2115,Semi-Furnished,2.0,2.0,Rent,Under Construction,12.6,0,Dealer,"Gym, Club House, Parking",2025-07-25,Per Month,,5000.0,2.3640661938534278,False,2025-07
+MB100272,Greater Noida,Techzone 4,Builder Floor,2.0,1640,Unfurnished,2.0,2.0,Rent,Ready to Move,17.7,5,Builder,"Power Backup, Park",2026-01-27,Per Month,,5000.0,3.048780487804878,False,2026-01
+MB100275,Greater Noida,Knowledge Park,Apartment,4.0,2172,Semi-Furnished,2.0,1.0,Rent,Under Construction,10.1,3,Dealer,"Gym, Club House, Swimming Pool",2025-08-17,Per Month,,5000.0,2.3020257826887662,False,2025-08
+MB100287,Noida,Sector 75,Apartment,2.0,1731,Fully Furnished,1.0,2.0,Rent,Ready to Move,24.0,2,Dealer,"Lift, Club House",2026-03-02,Per Month,,5000.0,2.8885037550548818,False,2026-03
+MB100289,Gurugram,Sector 67,Penthouse,3.0,2318,Unfurnished,4.0,1.0,Rent,New Launch,10.1,2,Builder,Power Backup,2025-01-14,Per Month,,5000.0,2.1570319240724762,False,2025-01
+MB100290,Ghaziabad,Vaishali,Apartment,3.0,1804,Unknown,1.0,1.0,Rent,New Launch,0.7,2,Owner,"Swimming Pool, Lift, Parking, Power Backup",2025-11-17,Per Month,,5000.0,2.7716186252771617,False,2025-11
+MB100302,Bengaluru,Marathahalli,Apartment,2.0,1733,Semi-Furnished,1.0,2.0,Rent,Resale,19.6,7,Owner,"Swimming Pool, Park, Lift, Gym",2025-08-06,Per Month,,5000.0,2.8851702250432774,False,2025-08
+MB100312,Mumbai,Chembur,Apartment,3.0,1966,Unfurnished,4.0,1.0,Rent,Ready to Move,6.3,1,Owner,Park,2025-06-06,Per Month,,5000.0,2.5432349949135302,False,2025-06
+MB100318,Ghaziabad,Siddharth Vihar,Apartment,3.0,1285,Unfurnished,2.0,1.0,Rent,New Launch,12.7,3,Owner,"Power Backup, Gym",2026-03-01,Per Month,,5000.0,3.8910505836575875,False,2026-03
+MB100319,Pune,Kharadi,Apartment,3.0,1972,Fully Furnished,3.0,2.0,Rent,New Launch,3.2,3,Owner,Club House,2025-03-20,Per Month,,5000.0,2.535496957403651,False,2025-03
+MB100323,Bengaluru,Marathahalli,Villa,4.0,2196,Unfurnished,3.0,1.0,Rent,New Launch,3.7,4,Dealer,"Lift, Parking",2025-12-09,Per Month,,5000.0,2.276867030965392,False,2025-12
+MB100326,Lucknow,Gomti Nagar,Apartment,2.0,1497,Unfurnished,1.0,0.0,Rent,Under Construction,15.6,3,Dealer,"Gym, Club House, Swimming Pool, Lift",2025-05-26,Per Month,,5000.0,3.3400133600534403,False,2025-05
+MB100327,Mumbai,Chembur,Independent House,2.0,1229,Semi-Furnished,2.0,0.0,Rent,Ready to Move,23.4,4,Builder,"Park, Lift",2026-08-12,Per Month,,5000.0,4.068348250610252,False,2026-08
+MB100333,Gurugram,Sector 49,Builder Floor,3.0,1682,Semi-Furnished,2.0,3.0,Rent,Resale,6.2,3,Owner,"Lift, Swimming Pool",2025-08-31,Per Month,,5000.0,2.972651605231867,False,2025-08
+MB100336,Pune,Wakad,Studio Apartment,3.0,1991,Unfurnished,3.0,1.0,Rent,New Launch,14.1,0,Dealer,"Security, Parking, Lift",2026-05-01,Per Month,,5000.0,2.5113008538422905,False,2026-05
+MB100339,Gurugram,Golf Course Road,Apartment,3.0,1825,Semi-Furnished,3.0,0.0,Rent,Ready to Move,20.9,8,Dealer,"Lift, Security",2026-04-25,Per Month,,5000.0,2.73972602739726,False,2026-04
+MB100343,Noida,Sector 75,Studio Apartment,3.0,1977,Fully Furnished,2.0,4.0,Rent,Ready to Move,6.7,10,Owner,"Security, Park, Parking",2025-12-20,Per Month,,5000.0,2.5290844714213456,False,2025-12
+MB100347,Mumbai,Powai,Studio Apartment,3.0,2091,Fully Furnished,2.0,2.0,Rent,Ready to Move,3.9,7,Dealer,"Security, Power Backup, Parking, Park",2026-05-16,Per Month,,5000.0,2.391200382592061,False,2026-05
+MB100348,Bengaluru,HSR Layout,Independent House,2.0,1633,Semi-Furnished,2.0,0.0,Rent,New Launch,16.4,2,Owner,"Park, Security",2025-04-23,Per Month,,5000.0,3.061849357011635,False,2025-04
+MB100350,Delhi,Vasant Kunj,Independent House,3.0,1987,Fully Furnished,2.0,2.0,Rent,New Launch,24.3,1,Owner,"Park, Lift, Security, Swimming Pool",2025-05-09,Per Month,,5000.0,2.5163563160543534,False,2025-05
+MB100351,Noida,Sector 75,Apartment,4.0,2091,Fully Furnished,1.0,2.0,Rent,New Launch,0.9,4,Owner,"Swimming Pool, Park, Club House, Power Backup",2025-03-21,Per Month,,5000.0,2.391200382592061,False,2025-03
+MB100353,Mumbai,Borivali,Studio Apartment,2.0,1415,Fully Furnished,2.0,3.0,Rent,New Launch,17.9,4,Builder,Lift,2025-07-12,Per Month,,5000.0,3.5335689045936394,False,2025-07
+MB100355,Mumbai,Borivali,Apartment,4.0,2402,Fully Furnished,1.0,0.0,Rent,Resale,15.9,8,Dealer,"Lift, Club House, Park, Parking",2025-03-07,Per Month,,5000.0,2.0815986677768525,False,2025-03
+MB100356,Bengaluru,Marathahalli,Villa,3.0,1732,Unfurnished,1.0,2.0,Rent,Resale,4.4,5,Dealer,Lift,2026-02-05,Per Month,,5000.0,2.886836027713626,False,2026-02
+MB100358,Lucknow,Aliganj,Apartment,3.0,1584,Unfurnished,3.0,1.0,Rent,Resale,1.8,3,Dealer,"Power Backup, Club House, Lift",2025-11-10,Per Month,,5000.0,3.1565656565656566,False,2025-11
+MB100359,Pune,Hinjewadi,Studio Apartment,3.0,1887,Fully Furnished,2.0,0.0,Rent,New Launch,10.3,6,Builder,"Gym, Swimming Pool, Power Backup",2026-05-29,Per Month,,5000.0,2.649708532061473,False,2026-05
+MB100362,Lucknow,Hazratganj,Builder Floor,3.0,2069,Semi-Furnished,2.0,0.0,Rent,New Launch,9.5,3,Dealer,Club House,2025-04-15,Per Month,,5000.0,2.416626389560174,False,2025-04
+MB100368,Noida,Sector 62,Apartment,2.0,1730,Semi-Furnished,1.0,2.0,Rent,Resale,11.9,2,Owner,"Security, Swimming Pool",2026-04-03,Per Month,,5000.0,2.8901734104046244,False,2026-04
+MB100371,Mumbai,Powai,Apartment,4.0,2204,Unfurnished,1.0,2.0,Rent,Resale,6.6,3,Dealer,"Security, Power Backup, Park, Swimming Pool",2025-04-06,Per Month,,5000.0,2.268602540834846,False,2025-04
+MB100377,Delhi,Rohini,Independent House,1.0,1335,Unfurnished,2.0,1.0,Rent,New Launch,4.9,4,Builder,"Park, Swimming Pool",2026-06-04,Per Month,,5000.0,3.745318352059925,False,2026-06
+MB100380,Hyderabad,Manikonda,Independent House,3.0,1760,Unfurnished,1.0,0.0,Rent,Ready to Move,7.1,4,Dealer,"Park, Power Backup, Parking, Security",2026-06-21,Per Month,,5000.0,2.840909090909091,False,2026-06
+MB100389,Delhi,Dwarka,Apartment,3.0,2108,Semi-Furnished,1.0,3.0,Rent,Under Construction,12.3,3,Dealer,"Swimming Pool, Club House, Security, Gym",2025-01-06,Per Month,,5000.0,2.3719165085388996,False,2025-01
+MB100390,Bengaluru,Whitefield,Independent House,3.0,1710,Fully Furnished,2.0,4.0,Rent,Ready to Move,3.3,3,Builder,"Power Backup, Gym, Club House, Park",2025-10-01,Per Month,,5000.0,2.9239766081871346,False,2025-10
+MB100392,Noida,Sector 75,Studio Apartment,4.0,2516,Semi-Furnished,2.0,1.0,Rent,Resale,1.1,5,Dealer,"Park, Swimming Pool, Power Backup",2026-03-07,Per Month,,5000.0,1.987281399046105,False,2026-03
+MB100393,Lucknow,Sushant Golf City,Apartment,2.0,1536,Unfurnished,2.0,2.0,Rent,Under Construction,2.6,6,Dealer,Swimming Pool,2025-03-10,Per Month,,5000.0,3.2552083333333335,False,2025-03
+MB100394,Pune,Hinjewadi,Apartment,3.0,1786,Fully Furnished,2.0,1.0,Rent,Under Construction,20.0,4,Owner,Gym,2026-07-09,Per Month,,5000.0,2.799552071668533,False,2026-07
+MB100399,Gurugram,Sohna Road,Apartment,3.0,1914,Semi-Furnished,2.0,1.0,Rent,Ready to Move,22.4,0,Owner,"Club House, Lift, Gym",2025-05-03,Per Month,,5000.0,2.6123301985370952,False,2025-05
+MB100403,Lucknow,Gomti Nagar,Apartment,3.0,1709,Unfurnished,2.0,4.0,Rent,Under Construction,9.2,7,Dealer,"Lift, Park, Gym, Swimming Pool",2026-02-27,Per Month,,5000.0,2.925687536571094,False,2026-02
+MB100408,Gurugram,Sohna Road,Penthouse,2.0,1645,Semi-Furnished,3.0,2.0,Rent,New Launch,23.6,3,Dealer,"Lift, Gym, Swimming Pool, Power Backup",2025-06-22,Per Month,,5000.0,3.0395136778115504,False,2025-06
+MB100411,Bengaluru,Yelahanka,Apartment,2.0,1292,Fully Furnished,3.0,1.0,Rent,Ready to Move,21.2,5,Builder,Swimming Pool,2026-07-04,Per Month,,5000.0,3.869969040247678,False,2026-07
+MB100412,Bengaluru,HSR Layout,Apartment,3.0,2147,Fully Furnished,2.0,,Rent,Ready to Move,2.3,5,Owner,"Gym, Security",2025-02-08,Per Month,,5000.0,2.328830926874709,False,2025-02
+MB100414,Pune,Wakad,Apartment,1.0,1005,Unfurnished,1.0,1.0,Rent,New Launch,11.9,4,Owner,"Gym, Swimming Pool, Club House, Lift",2025-03-30,Per Month,,5000.0,4.975124378109452,False,2025-03
+MB100415,Gurugram,Sector 49,Builder Floor,4.0,2590,Fully Furnished,4.0,2.0,Rent,Under Construction,18.7,8,Owner,None,2025-07-14,Per Month,,5000.0,1.9305019305019304,False,2025-07
+MB100416,Mumbai,Powai,Builder Floor,2.0,1337,Semi-Furnished,3.0,1.0,Rent,New Launch,14.8,7,Dealer,"Park, Gym, Power Backup",2026-06-01,Per Month,,5000.0,3.7397157816005984,False,2026-06
+MB100424,Noida,Sector 150,Independent House,3.0,2101,Semi-Furnished,1.0,2.0,Rent,New Launch,11.6,5,Dealer,"Power Backup, Gym, Park",2025-08-21,Per Month,,5000.0,2.379819133745835,False,2025-08
+MB100426,Greater Noida,Alpha 1,Builder Floor,2.0,1141,Unfurnished,2.0,1.0,Rent,Resale,9.7,3,Dealer,"Power Backup, Park",2025-07-26,Per Month,,5000.0,4.382120946538125,False,2025-07
+MB100433,Lucknow,Gomti Nagar,Apartment,1.0,979,Fully Furnished,2.0,2.0,Rent,Resale,11.8,4,Dealer,Security,2025-11-04,Per Month,,5000.0,5.107252298263535,False,2025-11
+MB100434,Gurugram,Sector 67,Builder Floor,2.0,1525,Semi-Furnished,2.0,2.0,Rent,Ready to Move,19.9,1,Owner,"Park, Security, Parking",2025-07-11,Per Month,,5000.0,3.278688524590164,False,2025-07
+MB100437,Hyderabad,Madhapur,Apartment,2.0,1559,Fully Furnished,3.0,1.0,Rent,Under Construction,21.6,3,Dealer,"Club House, Parking",2025-09-11,Per Month,,5000.0,3.207184092366902,False,2025-09
+MB100444,Hyderabad,Kondapur,Studio Apartment,4.0,2101,Unfurnished,2.0,1.0,Rent,Resale,2.7,5,Builder,Gym,2025-12-31,Per Month,,5000.0,2.379819133745835,False,2025-12
+MB100449,Noida,Sector 75,Builder Floor,5.0,2913,Semi-Furnished,1.0,2.0,Rent,Under Construction,23.2,3,Owner,"Security, Lift",2025-10-07,Per Month,,5000.0,1.7164435290078957,False,2025-10
+MB100452,Bengaluru,Yelahanka,Villa,3.0,1994,Semi-Furnished,2.0,0.0,Rent,Ready to Move,10.9,3,Dealer,"Parking, Security, Swimming Pool",2025-08-15,Per Month,,5000.0,2.507522567703109,False,2025-08
+MB100454,Bengaluru,Electronic City,Studio Apartment,4.0,2422,Semi-Furnished,1.0,1.0,Rent,New Launch,0.0,4,Owner,"Parking, Security, Club House, Lift",2025-01-08,Per Month,,5000.0,2.0644095788604457,False,2025-01
+MB100455,Hyderabad,Madhapur,Apartment,3.0,2074,Fully Furnished,2.0,0.0,Rent,Resale,3.3,2,Dealer,"Lift, Power Backup, Park, Gym",2025-07-26,Per Month,,5000.0,2.4108003857280615,False,2025-07
+MB100459,Noida,Sector 75,Apartment,3.0,1944,Semi-Furnished,1.0,2.0,Rent,Ready to Move,2.9,3,Builder,Parking,2025-02-08,Per Month,,5000.0,2.57201646090535,False,2025-02
+MB100464,Hyderabad,Manikonda,Villa,2.0,1287,Fully Furnished,2.0,0.0,Rent,New Launch,13.2,3,Dealer,"Parking, Swimming Pool, Club House",2025-11-24,Per Month,,5000.0,3.885003885003885,False,2025-11
+MB100465,Hyderabad,Madhapur,Apartment,3.0,1862,Semi-Furnished,3.0,1.0,Rent,Under Construction,24.0,1,Owner,Lift,2026-07-18,Per Month,,5000.0,2.6852846401718584,False,2026-07
+MB100471,Ghaziabad,Indirapuram,Builder Floor,3.0,2143,Fully Furnished,2.0,1.0,Rent,Resale,16.4,3,Owner,"Security, Gym",2026-06-04,Per Month,,5000.0,2.3331777881474567,False,2026-06
+MB100472,Ghaziabad,Crossings Republik,Apartment,2.0,1696,Unfurnished,1.0,1.0,Rent,New Launch,23.3,5,Dealer,"Park, Security, Lift, Gym",2026-08-02,Per Month,,5000.0,2.94811320754717,False,2026-08
+MB100475,Delhi,Mayur Vihar,Apartment,2.0,1252,Semi-Furnished,2.0,4.0,Rent,Under Construction,18.8,3,Owner,Park,2026-08-13,Per Month,,5000.0,3.9936102236421727,False,2026-08
+MB100477,Pune,Baner,Apartment,3.0,1636,Unfurnished,1.0,2.0,Rent,Under Construction,14.0,0,Owner,"Club House, Parking, Swimming Pool, Park",2025-02-01,Per Month,,5000.0,3.056234718826406,False,2025-02
+MB100483,Delhi,Mayur Vihar,Apartment,2.0,1356,Unfurnished,1.0,2.0,Rent,Resale,10.0,2,Dealer,"Gym, Parking",2026-03-24,Per Month,,5000.0,3.687315634218289,False,2026-03
+MB100485,Noida,Sector 62,Builder Floor,3.0,1689,Semi-Furnished,2.0,0.0,Rent,Resale,17.5,6,Dealer,Swimming Pool,2025-11-15,Per Month,,5000.0,2.960331557134399,False,2025-11
+MB100488,Delhi,Rohini,Builder Floor,2.0,1683,Semi-Furnished,4.0,1.0,Rent,Ready to Move,24.4,2,Dealer,"Parking, Gym, Park",2025-09-21,Per Month,,5000.0,2.9708853238265003,False,2025-09
+MB100493,Mumbai,Borivali,Penthouse,4.0,2468,Unfurnished,1.0,2.0,Rent,New Launch,17.0,2,Dealer,"Parking, Swimming Pool, Club House",2025-03-01,Per Month,,5000.0,2.025931928687196,False,2025-03
+MB100498,Gurugram,Golf Course Road,Apartment,2.0,1224,Semi-Furnished,1.0,0.0,Rent,New Launch,9.8,3,Dealer,"Club House, Parking, Security",2026-02-13,Per Month,,5000.0,4.084967320261438,False,2026-02
+MB100500,Ghaziabad,Indirapuram,Studio Apartment,3.0,1837,Unfurnished,3.0,1.0,Rent,Resale,8.9,9,Owner,"Parking, Swimming Pool, Power Backup, Lift",2025-05-08,Per Month,,5000.0,2.721829069134458,False,2025-05
+MB100501,Gurugram,Golf Course Road,Independent House,5.0,2515,Fully Furnished,1.0,3.0,Rent,Resale,7.3,4,Owner,"Gym, Parking",2025-02-17,Per Month,,5000.0,1.9880715705765408,False,2025-02
+MB100503,Ghaziabad,Raj Nagar,Apartment,1.0,1190,Fully Furnished,2.0,1.0,Rent,Under Construction,17.8,4,Builder,"Swimming Pool, Lift, Power Backup, Club House",2025-04-01,Per Month,,5000.0,4.201680672268908,False,2025-04
+MB100504,Bengaluru,Electronic City,Penthouse,3.0,1764,Fully Furnished,1.0,1.0,Rent,Resale,8.5,3,Builder,"Gym, Lift, Swimming Pool",2025-03-11,Per Month,,5000.0,2.834467120181406,False,2025-03
+MB100505,Delhi,Vasant Kunj,Studio Apartment,3.0,1602,Unfurnished,2.0,3.0,Rent,Resale,14.0,2,Dealer,"Park, Club House",2025-01-25,Per Month,,5000.0,3.1210986267166043,False,2025-01
+MB100507,Delhi,Dwarka,Apartment,5.0,2925,Fully Furnished,2.0,1.0,Rent,Ready to Move,23.7,10,Owner,"Security, Swimming Pool, Park",2025-03-29,Per Month,,5000.0,1.7094017094017093,False,2025-03
+MB100511,Bengaluru,HSR Layout,Apartment,1.0,1284,Semi-Furnished,2.0,0.0,Rent,Ready to Move,11.2,3,Owner,"Lift, Power Backup",2025-01-16,Per Month,,5000.0,3.8940809968847354,False,2025-01
+MB100512,Bengaluru,Unknown,Builder Floor,4.0,2444,Unfurnished,,3.0,Rent,Ready to Move,9.3,5,Dealer,"Swimming Pool, Park, Club House, Power Backup",2026-04-10,Per Month,,5000.0,2.0458265139116203,False,2026-04
+MB100514,Mumbai,Powai,Apartment,3.0,1910,Fully Furnished,2.0,3.0,Rent,Ready to Move,4.7,3,Dealer,Security,2025-04-01,Per Month,,5000.0,2.6178010471204187,False,2025-04
+MB100517,Delhi,Dwarka,Builder Floor,3.0,1574,Unfurnished,3.0,2.0,Rent,New Launch,3.9,2,Dealer,"Gym, Security",2025-07-05,Per Month,,5000.0,3.1766200762388817,False,2025-07
+MB100518,Ghaziabad,Raj Nagar,Apartment,2.0,1236,Fully Furnished,2.0,1.0,Rent,Resale,16.5,3,Owner,"Swimming Pool, Gym",2026-01-11,Per Month,,5000.0,4.0453074433656955,False,2026-01
+MB100519,Hyderabad,Kukatpally,Builder Floor,2.0,1517,Fully Furnished,,1.0,Rent,Resale,17.5,2,Builder,"Swimming Pool, Power Backup, Club House",2026-02-26,Per Month,,5000.0,3.2959789057350033,False,2026-02
+MB100522,Lucknow,Sushant Golf City,Studio Apartment,2.0,1415,Fully Furnished,3.0,2.0,Rent,Under Construction,21.8,3,Dealer,Power Backup,2026-04-15,Per Month,,5000.0,3.5335689045936394,False,2026-04
+MB100532,Delhi,Rohini,Builder Floor,2.0,1483,Fully Furnished,2.0,2.0,Rent,New Launch,22.6,4,Dealer,"Parking, Gym",2026-05-20,Per Month,,5000.0,3.3715441672285906,False,2026-05
+MB100536,Noida,Sector 75,Apartment,3.0,1746,Unfurnished,2.0,2.0,Rent,New Launch,14.5,4,Dealer,"Club House, Lift, Gym, Security",2025-05-31,Per Month,,5000.0,2.86368843069874,False,2025-05
+MB100538,Pune,Kharadi,Apartment,3.0,2029,Fully Furnished,,2.0,Rent,Under Construction,21.4,0,Dealer,Gym,2025-03-16,Per Month,,5000.0,2.464268112370626,False,2025-03
+MB100544,Bengaluru,Marathahalli,Builder Floor,3.0,2057,Unfurnished,1.0,0.0,Rent,Resale,24.6,2,Owner,"Power Backup, Swimming Pool, Club House",2025-01-24,Per Month,,5000.0,2.430724355858046,False,2025-01
+MB100548,Ghaziabad,Crossings Republik,Apartment,1.0,1064,Unfurnished,3.0,2.0,Rent,New Launch,6.0,3,Owner,"Lift, Park, Club House, Parking",2026-09-03,Per Month,,5000.0,4.6992481203007515,False,2026-09
+MB100551,Ghaziabad,Siddharth Vihar,Independent House,2.0,1646,Unfurnished,4.0,2.0,Rent,Resale,4.2,0,Dealer,"Swimming Pool, Power Backup, Gym",2025-05-05,Per Month,,5000.0,3.0376670716889427,False,2025-05
+MB100552,Ghaziabad,Crossings Republik,Villa,2.0,1835,Unfurnished,2.0,0.0,Rent,Ready to Move,11.8,4,Dealer,Lift,2025-05-03,Per Month,,5000.0,2.7247956403269753,False,2025-05
+MB100555,Lucknow,Aliganj,Penthouse,2.0,1481,Unfurnished,3.0,2.0,Rent,Under Construction,9.4,7,Dealer,Park,2026-08-22,Per Month,,5000.0,3.37609723160027,False,2026-08
+MB100556,Bengaluru,HSR Layout,Apartment,3.0,2090,Unfurnished,2.0,0.0,Rent,New Launch,18.5,5,Owner,"Gym, Swimming Pool",2025-11-03,Per Month,,5000.0,2.3923444976076556,False,2025-11
+MB100558,Lucknow,Sushant Golf City,Apartment,3.0,2313,Semi-Furnished,4.0,2.0,Rent,New Launch,21.5,1,Dealer,"Security, Gym",2025-03-13,Per Month,,5000.0,2.1616947686986596,False,2025-03
+MB100562,Greater Noida,Knowledge Park,Independent House,3.0,1547,Unfurnished,1.0,1.0,Rent,Resale,4.8,4,Dealer,"Power Backup, Parking, Lift",2025-08-16,Per Month,,5000.0,3.2320620555914674,False,2025-08
+MB100563,Lucknow,Sushant Golf City,Builder Floor,4.0,2532,Fully Furnished,1.0,2.0,Rent,New Launch,24.7,4,Dealer,"Security, Power Backup, Parking",2025-08-18,Per Month,,5000.0,1.9747235387045814,False,2025-08
+MB100568,Pune,Baner,Studio Apartment,3.0,1771,Fully Furnished,2.0,2.0,Rent,Under Construction,0.8,5,Dealer,"Power Backup, Gym, Club House",2026-05-14,Per Month,,5000.0,2.82326369282891,False,2026-05
+MB100573,Hyderabad,Manikonda,Independent House,4.0,2039,Fully Furnished,,1.0,Rent,Resale,14.3,0,Dealer,Gym,2026-04-08,Per Month,,5000.0,2.4521824423737124,False,2026-04
+MB100574,Ghaziabad,Siddharth Vihar,Builder Floor,4.0,2226,Fully Furnished,3.0,1.0,Rent,Ready to Move,10.5,4,Owner,"Park, Security",2025-06-16,Per Month,,5000.0,2.2461814914645104,False,2025-06
+MB100576,Hyderabad,Madhapur,Builder Floor,1.0,1225,Fully Furnished,3.0,2.0,Rent,Resale,7.1,3,Builder,"Security, Gym, Lift",2025-03-03,Per Month,,5000.0,4.081632653061225,False,2025-03
+MB100577,Pune,Hinjewadi,Studio Apartment,2.0,1416,Fully Furnished,3.0,1.0,Rent,Under Construction,0.6,0,Owner,"Parking, Swimming Pool",2026-05-03,Per Month,,5000.0,3.531073446327684,False,2026-05
+MB100580,Ghaziabad,Indirapuram,Apartment,3.0,2041,Unfurnished,3.0,0.0,Rent,Ready to Move,18.8,3,Dealer,"Swimming Pool, Lift, Gym, Club House",2025-03-22,Per Month,,5000.0,2.449779519843214,False,2025-03
+MB100582,Bengaluru,Electronic City,Independent House,2.0,2025,Unfurnished,3.0,1.0,Rent,Ready to Move,17.7,4,Owner,"Park, Gym",2025-03-11,Per Month,,5000.0,2.4691358024691357,False,2025-03
+MB100584,Lucknow,Gomti Nagar,Builder Floor,3.0,1500,Unfurnished,1.0,4.0,Rent,New Launch,3.0,3,Owner,"Park, Swimming Pool",2025-05-09,Per Month,,5000.0,3.3333333333333335,False,2025-05
+MB100585,Lucknow,Gomti Nagar,Apartment,2.0,1548,Semi-Furnished,3.0,2.0,Rent,Under Construction,15.6,5,Owner,"Park, Lift, Power Backup",2025-10-05,Per Month,,5000.0,3.2299741602067185,False,2025-10
+MB100586,Greater Noida,Techzone 4,Apartment,3.0,2148,Semi-Furnished,1.0,2.0,Rent,Under Construction,21.2,3,Dealer,"Club House, Gym, Power Backup",2025-03-24,Per Month,,5000.0,2.3277467411545625,False,2025-03
+MB100592,Gurugram,Sector 57,Independent House,3.0,1656,Semi-Furnished,2.0,2.0,Rent,Ready to Move,14.0,3,Dealer,"Security, Club House, Park",2025-01-08,Per Month,,5000.0,3.0193236714975846,False,2025-01
+MB100593,Hyderabad,Kukatpally,Independent House,4.0,2508,Fully Furnished,2.0,1.0,Rent,Under Construction,12.6,2,Dealer,"Swimming Pool, Security",2025-12-15,Per Month,,5000.0,1.9936204146730463,False,2025-12
+MB100596,Bengaluru,Whitefield,Apartment,2.0,1432,Fully Furnished,2.0,2.0,Rent,Ready to Move,23.4,2,Dealer,"Club House, Power Backup, Gym",2026-06-11,Per Month,,5000.0,3.4916201117318435,False,2026-06
+MB100597,Greater Noida,Noida Extension,Apartment,2.0,2184,Fully Furnished,4.0,2.0,Rent,New Launch,13.3,3,Owner,"Club House, Lift",2025-09-22,Per Month,,5000.0,2.2893772893772892,False,2025-09
+MB100598,Mumbai,Chembur,Apartment,3.0,2109,Unfurnished,4.0,2.0,Rent,Ready to Move,11.8,2,Dealer,"Parking, Power Backup, Lift, Park",2026-02-12,Per Month,,5000.0,2.370791844476055,False,2026-02
+MB100599,Bengaluru,Whitefield,Penthouse,2.0,1878,Fully Furnished,1.0,0.0,Rent,Ready to Move,10.6,2,Dealer,Club House,2025-11-03,Per Month,,5000.0,2.6624068157614484,False,2025-11
+MB100604,Ghaziabad,Vaishali,Apartment,3.0,1649,Unfurnished,3.0,3.0,Rent,New Launch,10.9,2,Owner,"Parking, Gym, Lift, Park",2026-03-13,Per Month,,5000.0,3.0321406913280775,False,2026-03
+MB100607,Bengaluru,Whitefield,Penthouse,5.0,2784,Unfurnished,1.0,3.0,Rent,New Launch,15.3,3,Dealer,"Park, Parking, Power Backup",2025-08-27,Per Month,,5000.0,1.7959770114942528,False,2025-08
+MB100610,Ghaziabad,Siddharth Vihar,Apartment,5.0,2836,Unfurnished,2.0,1.0,Rent,New Launch,23.7,4,Dealer,Gym,2025-02-28,Per Month,,5000.0,1.7630465444287728,False,2025-02
+MB100611,Gurugram,Sector 57,Studio Apartment,1.0,1026,Unfurnished,2.0,2.0,Rent,Under Construction,4.5,6,Dealer,"Power Backup, Parking",2025-10-10,Per Month,,5000.0,4.8732943469785575,False,2025-10
+MB100613,Bengaluru,HSR Layout,Apartment,3.0,1977,Semi-Furnished,2.0,0.0,Rent,Ready to Move,10.8,7,Dealer,"Parking, Power Backup",2025-09-30,Per Month,,5000.0,2.5290844714213456,False,2025-09
+MB100616,Hyderabad,Madhapur,Independent House,2.0,1585,Unfurnished,3.0,2.0,Rent,Under Construction,2.0,4,Dealer,"Lift, Gym, Parking",2025-08-25,Per Month,,5000.0,3.1545741324921135,False,2025-08
+MB100617,Greater Noida,Techzone 4,Builder Floor,3.0,2080,Fully Furnished,1.0,1.0,Rent,New Launch,11.1,4,Dealer,Club House,2025-02-01,Per Month,,5000.0,2.4038461538461537,False,2025-02
+MB100619,Bengaluru,HSR Layout,Apartment,2.0,1292,Semi-Furnished,2.0,1.0,Rent,Resale,9.7,4,Dealer,"Parking, Security, Club House",2025-06-22,Per Month,,5000.0,3.869969040247678,False,2025-06
+MB100620,Delhi,Vasant Kunj,Builder Floor,3.0,2036,Fully Furnished,2.0,2.0,Rent,Ready to Move,12.2,1,Dealer,Park,2025-10-30,Per Month,,5000.0,2.4557956777996073,False,2025-10
+MB100622,Greater Noida,Noida Extension,Independent House,3.0,1639,Fully Furnished,4.0,1.0,Rent,Under Construction,2.1,6,Owner,"Power Backup, Parking, Park, Security",2026-04-13,Per Month,,5000.0,3.050640634533252,False,2026-04
+MB100625,Greater Noida,Knowledge Park,Apartment,3.0,1813,Semi-Furnished,2.0,2.0,Rent,New Launch,21.6,4,Dealer,Park,2025-08-29,Per Month,,5000.0,2.7578599007170435,False,2025-08
+MB100626,Bengaluru,Yelahanka,Apartment,4.0,2330,Unfurnished,3.0,2.0,Rent,New Launch,4.2,0,Dealer,"Club House, Park",2025-08-04,Per Month,,5000.0,2.1459227467811157,False,2025-08
+MB100628,Lucknow,Gomti Nagar,Apartment,4.0,2618,Semi-Furnished,2.0,1.0,Rent,New Launch,13.2,4,Owner,Swimming Pool,2026-05-16,Per Month,,5000.0,1.9098548510313216,False,2026-05
+MB100629,Greater Noida,Pari Chowk,Penthouse,5.0,2430,Fully Furnished,3.0,1.0,Rent,Resale,8.9,4,Dealer,"Lift, Power Backup, Swimming Pool",2025-09-14,Per Month,,5000.0,2.05761316872428,False,2025-09
+MB100633,Noida,Sector 150,Builder Floor,2.0,1435,Semi-Furnished,3.0,3.0,Rent,Ready to Move,7.3,3,Dealer,Lift,2026-08-21,Per Month,,5000.0,3.484320557491289,False,2026-08
+MB100635,Gurugram,Sector 57,Builder Floor,4.0,2334,Semi-Furnished,1.0,4.0,Rent,Under Construction,4.9,0,Owner,"Gym, Lift",2026-08-27,Per Month,,5000.0,2.1422450728363325,False,2026-08
+MB100639,Greater Noida,Pari Chowk,Apartment,1.0,1274,Fully Furnished,3.0,3.0,Rent,Under Construction,23.1,7,Dealer,"Park, Parking, Club House",2026-06-20,Per Month,,5000.0,3.924646781789639,False,2026-06
+MB100640,Pune,Kharadi,Builder Floor,2.0,1539,Semi-Furnished,3.0,3.0,Rent,Resale,24.7,4,Dealer,Park,2026-07-24,Per Month,,5000.0,3.248862897985705,False,2026-07
+MB100641,Pune,Kharadi,Builder Floor,4.0,2258,Semi-Furnished,2.0,0.0,Rent,Resale,0.0,5,Owner,Park,2026-08-23,Per Month,,5000.0,2.2143489813994686,False,2026-08
+MB100644,Ghaziabad,Crossings Republik,Villa,3.0,1805,Fully Furnished,1.0,3.0,Rent,Resale,9.3,2,Owner,"Park, Gym",2025-04-20,Per Month,,5000.0,2.770083102493075,False,2025-04
+MB100645,Gurugram,Sector 49,Studio Apartment,4.0,2394,Fully Furnished,1.0,1.0,Rent,Ready to Move,4.9,4,Dealer,"Gym, Club House, Power Backup",2026-03-26,Per Month,,5000.0,2.0885547201336676,False,2026-03
+MB100647,Delhi,Vasant Kunj,Builder Floor,4.0,2169,Fully Furnished,2.0,0.0,Rent,Resale,16.4,1,Owner,"Security, Swimming Pool, Power Backup",2025-09-01,Per Month,,5000.0,2.305209774089442,False,2025-09
+MB100649,Greater Noida,Alpha 1,Builder Floor,2.0,1474,Fully Furnished,1.0,2.0,Rent,Ready to Move,11.5,5,Owner,"Lift, Security",2025-03-15,Per Month,,5000.0,3.3921302578018997,False,2025-03
+MB100651,Greater Noida,Techzone 4,Penthouse,1.0,738,Semi-Furnished,2.0,0.0,Rent,Resale,0.8,4,Dealer,"Park, Parking",2025-05-29,Per Month,,5000.0,6.775067750677507,True,2025-05
+MB100652,Ghaziabad,Vaishali,Apartment,3.0,1802,Semi-Furnished,3.0,2.0,Rent,New Launch,8.6,3,Builder,"Gym, Power Backup",2025-05-16,Per Month,,5000.0,2.774694783573807,False,2025-05
+MB100653,Greater Noida,Alpha 1,Builder Floor,2.0,1444,Semi-Furnished,3.0,1.0,Rent,New Launch,22.4,2,Unknown,"Security, Parking, Park, Swimming Pool",2026-06-02,Per Month,,5000.0,3.4626038781163433,False,2026-06
+MB100656,Mumbai,Powai,Studio Apartment,3.0,1964,Semi-Furnished,1.0,,Rent,Ready to Move,9.4,0,Dealer,"Swimming Pool, Security",2026-05-14,Per Month,,5000.0,2.545824847250509,False,2026-05
+MB100660,Delhi,Vasant Kunj,Apartment,3.0,1976,Semi-Furnished,2.0,2.0,Rent,Resale,2.6,1,Builder,Lift,2025-08-20,Per Month,,5000.0,2.5303643724696356,False,2025-08
+MB100662,Greater Noida,Techzone 4,Apartment,4.0,2366,Fully Furnished,2.0,1.0,Rent,Ready to Move,20.4,4,Builder,"Parking, Club House, Park, Security",2025-06-16,Per Month,,5000.0,2.113271344040575,False,2025-06
+MB100664,Hyderabad,Kukatpally,Independent House,1.0,1010,Semi-Furnished,2.0,2.0,Rent,New Launch,0.3,3,Dealer,"Club House, Gym, Swimming Pool",2025-08-12,Per Month,,5000.0,4.9504950495049505,False,2025-08
+MB100678,Gurugram,Sohna Road,Independent House,4.0,2411,Semi-Furnished,1.0,4.0,Rent,Ready to Move,12.4,3,Dealer,Power Backup,2026-07-19,Per Month,,5000.0,2.073828287017835,False,2026-07
+MB100682,Hyderabad,Manikonda,Apartment,3.0,2018,Unfurnished,1.0,1.0,Rent,Ready to Move,4.1,2,Dealer,"Park, Power Backup, Gym, Club House",2026-01-31,Per Month,,5000.0,2.4777006937561943,False,2026-01
+MB100685,Hyderabad,Kondapur,Apartment,2.0,1421,Fully Furnished,3.0,0.0,Rent,Under Construction,3.5,6,Owner,"Security, Parking, Club House, Park",2025-12-28,Per Month,,5000.0,3.518648838845883,False,2025-12
+MB100690,Gurugram,Sector 67,Apartment,2.0,1239,Unfurnished,2.0,1.0,Rent,Under Construction,20.6,4,Dealer,"Gym, Swimming Pool, Power Backup",2025-07-05,Per Month,,5000.0,4.035512510088782,False,2025-07
+MB100692,Lucknow,Hazratganj,Builder Floor,3.0,1803,Fully Furnished,2.0,2.0,Rent,Resale,13.9,2,Dealer,"Park, Club House, Power Backup",2026-08-08,Per Month,,5000.0,2.7731558513588466,False,2026-08
+MB100695,Greater Noida,Knowledge Park,Villa,4.0,2295,Semi-Furnished,3.0,2.0,Rent,Under Construction,10.3,5,Dealer,"Club House, Security, Gym",2026-01-29,Per Month,,5000.0,2.178649237472767,False,2026-01
+MB100696,Ghaziabad,Siddharth Vihar,Apartment,4.0,2266,Fully Furnished,2.0,2.0,Rent,Ready to Move,14.5,4,Owner,"Power Backup, Gym, Security, Park",2026-04-28,Per Month,,5000.0,2.206531332744925,False,2026-04
+MB100697,Gurugram,Golf Course Road,Apartment,3.0,1841,Fully Furnished,2.0,2.0,Rent,Resale,13.0,4,Dealer,Parking,2025-02-28,Per Month,,5000.0,2.7159152634437804,False,2025-02
+MB100701,Gurugram,Sector 67,Villa,4.0,2920,Semi-Furnished,1.0,1.0,Rent,Under Construction,24.5,8,Owner,"Club House, Power Backup, Lift, Swimming Pool",2025-08-24,Per Month,,5000.0,1.7123287671232876,False,2025-08
+MB100705,Bengaluru,HSR Layout,Apartment,3.0,1958,Semi-Furnished,4.0,2.0,Rent,Under Construction,6.8,5,Owner,"Club House, Parking, Security",2025-11-30,Per Month,,5000.0,2.5536261491317673,False,2025-11
+MB100707,Bengaluru,Yelahanka,Builder Floor,3.0,1621,Unfurnished,1.0,0.0,Rent,Under Construction,2.3,3,Dealer,Security,2025-12-21,Per Month,,5000.0,3.0845157310302285,False,2025-12
+MB100708,Greater Noida,Techzone 4,Villa,2.0,1835,Fully Furnished,3.0,3.0,Rent,Resale,4.6,4,Dealer,"Lift, Power Backup, Park",2025-04-13,Per Month,,5000.0,2.7247956403269753,False,2025-04
+MB100709,Noida,Sector 150,Apartment,3.0,1941,Fully Furnished,3.0,1.0,Rent,Ready to Move,8.8,2,Owner,"Security, Gym",2025-01-07,Per Month,,5000.0,2.575991756826378,False,2025-01
+MB100710,Gurugram,Sector 67,Villa,4.0,2456,Semi-Furnished,2.0,2.0,Rent,Under Construction,16.5,6,Dealer,Lift,2025-03-18,Per Month,,5000.0,2.035830618892508,False,2025-03
+MB100716,Greater Noida,Techzone 4,Apartment,3.0,1853,Semi-Furnished,2.0,2.0,Rent,Ready to Move,4.4,3,Dealer,"Gym, Park, Parking, Lift",2025-03-20,Per Month,,5000.0,2.698327037236913,False,2025-03
+MB100724,Ghaziabad,Raj Nagar,Penthouse,4.0,2644,Unfurnished,3.0,2.0,Rent,New Launch,9.6,5,Owner,"Swimming Pool, Gym",2026-08-12,Per Month,,5000.0,1.8910741301059002,False,2026-08
+MB100725,Pune,Hadapsar,Apartment,2.0,1449,Unfurnished,2.0,2.0,Rent,New Launch,9.4,0,Dealer,"Gym, Swimming Pool, Parking",2025-02-01,Per Month,,5000.0,3.450655624568668,False,2025-02
+MB100733,Noida,Sector 75,Studio Apartment,2.0,1394,Unfurnished,1.0,2.0,Rent,New Launch,6.1,1,Builder,"Lift, Security",2025-05-23,Per Month,,5000.0,3.586800573888092,False,2025-05
+MB100735,Bengaluru,Electronic City,Apartment,3.0,1782,Semi-Furnished,2.0,0.0,Rent,New Launch,16.5,4,Dealer,"Security, Club House, Swimming Pool",2026-05-08,Per Month,,5000.0,2.8058361391694726,False,2026-05
+MB100739,Lucknow,Hazratganj,Apartment,4.0,2115,Unfurnished,3.0,2.0,Rent,Under Construction,11.9,1,Dealer,"Park, Swimming Pool, Security",2026-06-05,Per Month,,5000.0,2.3640661938534278,False,2026-06
+MB100743,Lucknow,Aliganj,Builder Floor,4.0,2299,Semi-Furnished,3.0,1.0,Rent,Resale,8.9,3,Owner,Lift,2025-08-29,Per Month,,5000.0,2.174858634188778,False,2025-08
+MB100751,Ghaziabad,Raj Nagar,Apartment,3.0,1643,Fully Furnished,2.0,1.0,Rent,Resale,5.3,5,Owner,"Park, Lift",2026-08-12,Per Month,,5000.0,3.0432136335970785,False,2026-08
+MB100752,Ghaziabad,Raj Nagar,Studio Apartment,2.0,1889,Unfurnished,1.0,2.0,Rent,New Launch,4.7,6,Dealer,"Gym, Lift, Park",2025-02-10,Per Month,,5000.0,2.6469031233456857,False,2025-02
+MB100753,Gurugram,Sector 49,Apartment,2.0,992,Unfurnished,1.0,2.0,Rent,Under Construction,19.1,4,Owner,"Power Backup, Security, Gym",2025-08-22,Per Month,,5000.0,5.040322580645161,False,2025-08
+MB100755,Delhi,Vasant Kunj,Studio Apartment,3.0,1909,Semi-Furnished,,1.0,Rent,Under Construction,12.2,5,Builder,"Club House, Lift",2025-04-21,Per Month,,5000.0,2.6191723415400734,False,2025-04
+MB100765,Hyderabad,Kukatpally,Apartment,2.0,1773,Fully Furnished,4.0,1.0,Rent,Under Construction,14.0,3,Dealer,"Lift, Park, Gym",2025-03-31,Per Month,,5000.0,2.820078962210942,False,2025-03
+MB100769,Lucknow,Sushant Golf City,Builder Floor,3.0,1895,Semi-Furnished,3.0,1.0,Rent,Ready to Move,2.4,1,Builder,"Lift, Park",2026-08-12,Per Month,,5000.0,2.638522427440633,False,2026-08
+MB100771,Greater Noida,Noida Extension,Builder Floor,1.0,1152,Semi-Furnished,1.0,1.0,Rent,Ready to Move,19.5,5,Dealer,Security,2026-07-23,Per Month,,5000.0,4.340277777777778,False,2026-07
+MB100775,Gurugram,Sector 57,Builder Floor,3.0,1970,Fully Furnished,4.0,3.0,Rent,New Launch,19.0,4,Builder,"Park, Swimming Pool, Parking, Power Backup",2025-02-18,Per Month,,5000.0,2.5380710659898478,False,2025-02
+MB100776,Gurugram,Sector 49,Apartment,4.0,2325,Unfurnished,2.0,2.0,Rent,Resale,0.2,6,Owner,"Club House, Lift, Park",2025-04-22,Per Month,,5000.0,2.150537634408602,False,2025-04
+MB100779,Hyderabad,Kondapur,Apartment,3.0,1642,Fully Furnished,3.0,2.0,Rent,Under Construction,10.0,6,Dealer,"Power Backup, Swimming Pool, Lift",2026-04-24,Per Month,,5000.0,3.045066991473812,False,2026-04
+MB100780,Ghaziabad,Crossings Republik,Apartment,2.0,1134,Semi-Furnished,2.0,0.0,Rent,Under Construction,1.0,9,Owner,"Parking, Club House, Swimming Pool",2026-08-18,Per Month,,5000.0,4.409171075837743,False,2026-08
+MB100782,Bengaluru,Electronic City,Apartment,3.0,1959,Semi-Furnished,2.0,2.0,Rent,Resale,18.7,6,Owner,"Swimming Pool, Club House, Gym",2025-05-16,Per Month,,5000.0,2.5523226135783563,False,2025-05
+MB100787,Delhi,Dwarka,Apartment,3.0,1975,Fully Furnished,2.0,3.0,Rent,Under Construction,2.9,3,Owner,"Lift, Power Backup, Security, Club House",2026-02-05,Per Month,,5000.0,2.5316455696202533,False,2026-02
+MB100792,Pune,Wakad,Builder Floor,2.0,1648,Fully Furnished,3.0,4.0,Rent,Under Construction,4.8,5,Dealer,"Parking, Lift, Park",2026-07-12,Per Month,,5000.0,3.033980582524272,False,2026-07
+MB100798,Mumbai,Powai,Builder Floor,5.0,2822,Semi-Furnished,1.0,0.0,Rent,New Launch,20.7,4,Builder,"Parking, Swimming Pool, Lift, Security",2025-04-14,Per Month,,5000.0,1.7717930545712262,False,2025-04
+MB100800,Delhi,Vasant Kunj,Builder Floor,3.0,1829,Semi-Furnished,2.0,1.0,Rent,Ready to Move,16.2,2,Dealer,Lift,2025-10-30,Per Month,,5000.0,2.733734281027884,False,2025-10
+MB100803,Lucknow,Hazratganj,Apartment,1.0,995,Fully Furnished,1.0,1.0,Rent,Under Construction,4.0,0,Dealer,"Lift, Park, Gym, Parking",2025-06-17,Per Month,,5000.0,5.025125628140704,False,2025-06
+MB100808,Mumbai,Borivali,Villa,3.0,2230,Unfurnished,3.0,2.0,Rent,New Launch,14.0,4,Dealer,"Swimming Pool, Power Backup, Security, Lift",2026-09-06,Per Month,,5000.0,2.242152466367713,False,2026-09
+MB100810,Delhi,Dwarka,Builder Floor,4.0,1962,Semi-Furnished,2.0,3.0,Rent,Ready to Move,23.1,1,Dealer,Gym,2025-09-22,Per Month,,5000.0,2.5484199796126403,False,2025-09
+MB100823,Delhi,Mayur Vihar,Studio Apartment,4.0,2136,Semi-Furnished,1.0,0.0,Rent,New Launch,23.9,7,Owner,"Security, Park, Power Backup, Gym",2026-06-06,Per Month,,5000.0,2.3408239700374533,False,2026-06
+MB100825,Ghaziabad,Siddharth Vihar,Apartment,4.0,2562,Unfurnished,2.0,1.0,Rent,Under Construction,21.3,1,Builder,"Security, Swimming Pool, Parking, Lift",2026-08-24,Per Month,,5000.0,1.95160031225605,False,2026-08
+MB100832,Gurugram,Sector 49,Builder Floor,3.0,1882,Fully Furnished,3.0,0.0,Rent,Resale,17.4,4,Dealer,Swimming Pool,2025-03-08,Per Month,,5000.0,2.656748140276302,False,2025-03
+MB100833,Lucknow,Indira Nagar,Apartment,3.0,1601,Unfurnished,1.0,3.0,Rent,Resale,4.2,5,Dealer,"Power Backup, Club House, Swimming Pool",2025-07-12,Per Month,,5000.0,3.1230480949406623,False,2025-07
+MB100836,Pune,Wakad,Apartment,3.0,2346,Unfurnished,2.0,2.0,Rent,Resale,11.6,1,Owner,Club House,2026-04-01,Per Month,,5000.0,2.131287297527707,False,2026-04
+MB100838,Delhi,Mayur Vihar,Independent House,2.0,1411,Fully Furnished,1.0,3.0,Rent,Under Construction,9.9,5,Builder,"Security, Lift",2025-07-02,Per Month,,5000.0,3.5435861091424523,False,2025-07
+MB100840,Gurugram,Sector 57,Apartment,3.0,1904,Unfurnished,1.0,2.0,Rent,Under Construction,24.6,4,Dealer,"Power Backup, Club House, Security, Park",2026-05-10,Per Month,,5000.0,2.6260504201680672,False,2026-05
+MB100845,Greater Noida,Techzone 4,Independent House,1.0,1408,Unfurnished,2.0,4.0,Rent,Resale,14.7,7,Owner,"Parking, Security, Swimming Pool, Lift",2026-07-05,Per Month,,5000.0,3.5511363636363638,False,2026-07
+MB100848,Hyderabad,Gachibowli,Villa,4.0,2212,Fully Furnished,2.0,1.0,Rent,Under Construction,4.6,3,Dealer,"Power Backup, Swimming Pool",2025-12-17,Per Month,,5000.0,2.2603978300180834,False,2025-12
+MB100867,Pune,Hinjewadi,Builder Floor,1.0,721,Fully Furnished,3.0,2.0,Rent,Ready to Move,17.7,4,Builder,"Swimming Pool, Parking, Security",2025-12-31,Per Month,,5000.0,6.934812760055478,True,2025-12
+MB100872,Pune,Hinjewadi,Apartment,4.0,2289,Semi-Furnished,1.0,1.0,Rent,New Launch,22.7,3,Owner,Club House,2026-07-30,Per Month,,5000.0,2.18435998252512,False,2026-07
+MB100875,Lucknow,Indira Nagar,Studio Apartment,4.0,2351,Unfurnished,2.0,1.0,Rent,Under Construction,16.0,6,Builder,"Gym, Lift",2026-08-21,Per Month,,5000.0,2.126754572522331,False,2026-08
+MB100877,Delhi,Dwarka,Independent House,3.0,2134,Unknown,2.0,2.0,Rent,Ready to Move,23.3,2,Dealer,"Park, Parking",2025-04-14,Per Month,,5000.0,2.343017806935333,False,2025-04
+MB100878,Gurugram,Sector 49,Builder Floor,3.0,1470,Semi-Furnished,2.0,0.0,Rent,Ready to Move,3.4,5,Dealer,"Gym, Club House, Lift, Park",2026-07-09,Per Month,,5000.0,3.401360544217687,False,2026-07
+MB100883,Noida,Sector 150,Villa,3.0,2051,Semi-Furnished,2.0,1.0,Rent,New Launch,8.6,0,Owner,"Gym, Lift, Swimming Pool",2025-09-01,Per Month,,5000.0,2.4378352023403216,False,2025-09
+MB100885,Greater Noida,Pari Chowk,Independent House,5.0,2637,Unfurnished,1.0,2.0,Rent,New Launch,22.3,2,Owner,Lift,2025-04-24,Per Month,,5000.0,1.8960940462646947,False,2025-04
+MB100888,Pune,Wakad,Apartment,4.0,2508,Fully Furnished,2.0,1.0,Rent,New Launch,18.1,3,Owner,"Club House, Parking",2025-12-07,Per Month,,5000.0,1.9936204146730463,False,2025-12
+MB100891,Bengaluru,HSR Layout,Studio Apartment,4.0,2386,Fully Furnished,2.0,2.0,Rent,New Launch,11.8,3,Dealer,Club House,2026-01-16,Per Month,,5000.0,2.095557418273261,False,2026-01
+MB100903,Bengaluru,Whitefield,Villa,4.0,2371,Fully Furnished,2.0,2.0,Rent,New Launch,17.0,4,Dealer,"Power Backup, Swimming Pool, Lift, Club House",2025-09-30,Per Month,,5000.0,2.108814846056516,False,2025-09
+MB100904,Bengaluru,Whitefield,Apartment,3.0,1855,Semi-Furnished,2.0,1.0,Rent,New Launch,16.2,5,Dealer,"Parking, Park, Security",2026-09-11,Per Month,,5000.0,2.6954177897574123,False,2026-09
+MB100908,Greater Noida,Alpha 1,Studio Apartment,4.0,2276,Semi-Furnished,1.0,2.0,Rent,Under Construction,16.6,3,Dealer,"Gym, Swimming Pool, Club House",2025-01-14,Per Month,,5000.0,2.196836555360281,False,2025-01
+MB100909,Mumbai,Andheri,Apartment,3.0,1746,Semi-Furnished,2.0,1.0,Rent,Ready to Move,12.7,5,Owner,Club House,2026-07-24,Per Month,,5000.0,2.86368843069874,False,2026-07
+MB100910,Noida,Sector 75,Penthouse,3.0,1847,Unfurnished,2.0,2.0,Rent,Under Construction,6.3,2,Dealer,"Security, Park, Gym, Swimming Pool",2025-12-20,Per Month,,5000.0,2.707092582566324,False,2025-12
+MB100912,Ghaziabad,Raj Nagar,Builder Floor,3.0,1646,Unfurnished,2.0,3.0,Rent,New Launch,24.5,2,Owner,"Park, Security",2026-09-02,Per Month,,5000.0,3.0376670716889427,False,2026-09
+MB100913,Pune,Kharadi,Apartment,2.0,1953,Semi-Furnished,2.0,2.0,Rent,Ready to Move,19.2,4,Dealer,"Swimming Pool, Club House",2026-04-08,Per Month,,5000.0,2.5601638504864312,False,2026-04
+MB100914,Noida,Sector 137,Apartment,2.0,1294,Semi-Furnished,2.0,2.0,Rent,New Launch,16.5,5,Dealer,"Lift, Park, Parking, Security",2026-05-27,Per Month,,5000.0,3.8639876352395675,False,2026-05
+MB100918,Lucknow,Hazratganj,Studio Apartment,2.0,1536,Unfurnished,3.0,1.0,Rent,Resale,17.9,6,Dealer,Swimming Pool,2026-05-28,Per Month,,5000.0,3.2552083333333335,False,2026-05
+MB100920,Bengaluru,Marathahalli,Apartment,1.0,1714,Fully Furnished,2.0,1.0,Rent,Ready to Move,20.5,4,Owner,Gym,2025-10-31,Per Month,,5000.0,2.9171528588098017,False,2025-10
+MB100921,Delhi,Vasant Kunj,Independent House,1.0,1360,Fully Furnished,4.0,1.0,Rent,Under Construction,20.0,3,Dealer,"Gym, Club House, Park",2025-04-19,Per Month,,5000.0,3.676470588235294,False,2025-04
+MB100925,Mumbai,Andheri,Villa,3.0,2083,Semi-Furnished,2.0,1.0,Rent,Ready to Move,6.8,3,Owner,"Gym, Lift, Parking",2025-07-30,Per Month,,5000.0,2.400384061449832,False,2025-07
+MB100929,Noida,Sector 62,Builder Floor,3.0,1809,Unfurnished,2.0,1.0,Rent,Under Construction,5.6,4,Dealer,"Power Backup, Club House, Lift",2025-08-02,Per Month,,5000.0,2.7639579878385847,False,2025-08
+MB100931,Noida,Sector 137,Apartment,2.0,1245,Unfurnished,2.0,1.0,Rent,Resale,6.7,2,Dealer,"Parking, Club House",2025-05-26,Per Month,,5000.0,4.016064257028113,False,2025-05
+MB100932,Greater Noida,Knowledge Park,Independent House,3.0,1803,Unfurnished,1.0,1.0,Rent,Ready to Move,13.7,1,Owner,"Power Backup, Parking",2025-02-07,Per Month,,5000.0,2.7731558513588466,False,2025-02
+MB100936,Gurugram,Sohna Road,Apartment,2.0,1597,Unfurnished,1.0,1.0,Rent,Under Construction,2.9,6,Dealer,Parking,2026-03-30,Per Month,,5000.0,3.1308703819661865,False,2026-03
+MB100937,Hyderabad,Kondapur,Apartment,3.0,2052,Unfurnished,2.0,0.0,Rent,Resale,19.6,3,Builder,"Park, Security",2026-05-13,Per Month,,5000.0,2.4366471734892787,False,2026-05
+MB100939,Gurugram,Sector 57,Apartment,3.0,2001,Fully Furnished,4.0,2.0,Rent,Under Construction,24.7,2,Dealer,"Security, Park, Lift, Swimming Pool",2025-10-24,Per Month,,5000.0,2.498750624687656,False,2025-10
+MB100946,Greater Noida,Alpha 1,Villa,3.0,1683,Fully Furnished,3.0,2.0,Rent,New Launch,1.0,5,Dealer,"Lift, Park, Power Backup, Security",2025-07-21,Per Month,,5000.0,2.9708853238265003,False,2025-07
+MB100948,Ghaziabad,Indirapuram,Builder Floor,2.0,1876,Semi-Furnished,3.0,1.0,Rent,Resale,3.1,4,Owner,"Lift, Security, Club House, Gym",2025-10-10,Per Month,,5000.0,2.6652452025586353,False,2025-10
+MB100951,Mumbai,Thane West,Apartment,2.0,1755,Semi-Furnished,1.0,2.0,Rent,Under Construction,22.9,4,Dealer,"Gym, Club House, Security",2025-07-22,Per Month,,5000.0,2.849002849002849,False,2025-07
+MB100953,Pune,Kharadi,Apartment,1.0,1133,Unfurnished,2.0,3.0,Rent,Resale,12.9,2,Dealer,Club House,2025-07-26,Per Month,,5000.0,4.41306266548985,False,2025-07
+MB100961,Pune,Baner,Apartment,2.0,1711,Semi-Furnished,3.0,3.0,Rent,Resale,24.9,4,Dealer,"Security, Parking",2025-12-05,Per Month,,5000.0,2.922267679719462,False,2025-12
+MB100969,Lucknow,Hazratganj,Builder Floor,3.0,2085,Unfurnished,1.0,2.0,Rent,Resale,21.9,2,Owner,"Security, Power Backup",2025-04-03,Per Month,,5000.0,2.3980815347721824,False,2025-04
+MB100971,Delhi,Mayur Vihar,Apartment,3.0,1808,Unfurnished,2.0,1.0,Rent,Resale,22.0,3,Owner,"Security, Parking",2026-03-21,Per Month,,5000.0,2.765486725663717,False,2026-03
+MB100972,Ghaziabad,Vaishali,Villa,2.0,1510,Unfurnished,3.0,2.0,Rent,Ready to Move,17.1,2,Owner,"Power Backup, Security",2025-04-01,Per Month,,5000.0,3.3112582781456954,False,2025-04
+MB100974,Noida,Sector 75,Builder Floor,2.0,1351,Unfurnished,4.0,4.0,Rent,Ready to Move,0.9,8,Owner,Power Backup,2025-05-26,Per Month,,5000.0,3.7009622501850483,False,2025-05
+MB100976,Mumbai,Chembur,Villa,2.0,1428,Semi-Furnished,2.0,2.0,Rent,New Launch,5.9,3,Owner,Parking,2025-04-12,Per Month,,5000.0,3.5014005602240896,False,2025-04
+MB100981,Hyderabad,Madhapur,Apartment,3.0,1704,Unfurnished,2.0,1.0,Rent,Ready to Move,18.3,5,Dealer,Power Backup,2026-01-22,Per Month,,5000.0,2.9342723004694835,False,2026-01
+MB100983,Greater Noida,Noida Extension,Studio Apartment,3.0,2278,Unfurnished,1.0,2.0,Rent,Ready to Move,19.7,4,Dealer,"Gym, Swimming Pool, Parking",2025-09-03,Per Month,,5000.0,2.194907813871817,False,2025-09
+MB100988,Hyderabad,Madhapur,Penthouse,2.0,1025,Unfurnished,2.0,2.0,Rent,New Launch,15.7,2,Dealer,"Lift, Gym",2026-06-13,Per Month,,5000.0,4.878048780487805,False,2026-06
+MB100989,Hyderabad,Manikonda,Apartment,2.0,1453,Unfurnished,3.0,2.0,Rent,Resale,11.8,3,Builder,"Swimming Pool, Power Backup, Park",2025-07-01,Per Month,,5000.0,3.4411562284927735,False,2025-07
+MB100990,Gurugram,Sector 67,Independent House,1.0,1158,Fully Furnished,3.0,2.0,Rent,Under Construction,23.0,4,Dealer,"Security, Power Backup, Lift, Park",2025-11-22,Per Month,,5000.0,4.317789291882556,False,2025-11
+MB100994,Delhi,Mayur Vihar,Penthouse,2.0,1586,Unfurnished,1.0,1.0,Rent,Ready to Move,19.0,7,Dealer,Security,2025-12-13,Per Month,,5000.0,3.1525851197982346,False,2025-12
+MB101004,Greater Noida,Techzone 4,Studio Apartment,2.0,1719,Fully Furnished,3.0,2.0,Rent,Resale,0.7,3,Owner,"Parking, Park, Security",2026-06-21,Per Month,,5000.0,2.908667830133799,False,2026-06
+MB101008,Gurugram,Golf Course Road,Studio Apartment,2.0,1374,Semi-Furnished,2.0,3.0,Rent,Resale,15.6,3,Dealer,"Power Backup, Park, Lift, Parking",2026-04-24,Per Month,,5000.0,3.63901018922853,False,2026-04
+MB101010,Pune,Hadapsar,Apartment,3.0,1937,Unfurnished,1.0,2.0,Rent,Ready to Move,17.5,6,Dealer,"Club House, Park",2026-06-23,Per Month,,5000.0,2.581311306143521,False,2026-06
+MB101012,Lucknow,Indira Nagar,Independent House,3.0,2199,Semi-Furnished,2.0,3.0,Rent,Under Construction,2.0,2,Builder,"Swimming Pool, Security, Lift, Parking",2026-06-17,Per Month,,5000.0,2.2737608003638017,False,2026-06
+MB101013,Ghaziabad,Crossings Republik,Studio Apartment,3.0,1650,Unfurnished,2.0,2.0,Rent,New Launch,4.4,4,Dealer,Gym,2025-05-11,Per Month,,5000.0,3.0303030303030303,False,2025-05
+MB101015,Delhi,Saket,Builder Floor,2.0,1780,Semi-Furnished,3.0,2.0,Rent,Ready to Move,14.5,1,Owner,"Club House, Park, Security, Parking",2026-01-02,Per Month,,5000.0,2.808988764044944,False,2026-01
+MB101023,Ghaziabad,Siddharth Vihar,Builder Floor,3.0,1835,Unfurnished,1.0,2.0,Rent,Resale,21.6,3,Owner,"Park, Lift, Parking",2026-06-19,Per Month,,5000.0,2.7247956403269753,False,2026-06
+MB101025,Delhi,Vasant Kunj,Apartment,3.0,2078,Unfurnished,4.0,1.0,Rent,Resale,12.6,2,Owner,Lift,2026-08-17,Per Month,,5000.0,2.4061597690086622,False,2026-08
+MB101027,Mumbai,Powai,Builder Floor,2.0,1483,Unfurnished,1.0,3.0,Rent,New Launch,4.1,10,Dealer,"Club House, Gym",2025-06-23,Per Month,,5000.0,3.3715441672285906,False,2025-06
+MB101029,Bengaluru,Marathahalli,Penthouse,3.0,1768,Fully Furnished,2.0,1.0,Rent,Under Construction,7.9,5,Dealer,Parking,2026-05-13,Per Month,,5000.0,2.828054298642534,False,2026-05
+MB101032,Hyderabad,Madhapur,Independent House,2.0,1574,Fully Furnished,2.0,3.0,Rent,Ready to Move,18.4,6,Owner,"Swimming Pool, Lift, Parking, Power Backup",2025-09-11,Per Month,,5000.0,3.1766200762388817,False,2025-09
+MB101033,Pune,Baner,Studio Apartment,2.0,1855,Unfurnished,2.0,1.0,Rent,Resale,13.1,4,Dealer,"Swimming Pool, Parking, Lift",2025-06-20,Per Month,,5000.0,2.6954177897574123,False,2025-06
+MB101039,Mumbai,Thane West,Apartment,3.0,1517,Unfurnished,4.0,1.0,Rent,Ready to Move,9.0,6,Builder,Swimming Pool,2026-07-23,Per Month,,5000.0,3.2959789057350033,False,2026-07
+MB101040,Lucknow,Aliganj,Penthouse,1.0,1255,Semi-Furnished,3.0,2.0,Rent,Under Construction,9.9,0,Owner,Park,2026-04-10,Per Month,,5000.0,3.9840637450199203,False,2026-04
+MB101042,Ghaziabad,Raj Nagar,Studio Apartment,4.0,2467,Semi-Furnished,3.0,2.0,Rent,Resale,22.8,2,Owner,"Club House, Gym, Swimming Pool, Lift",2025-08-07,Per Month,,5000.0,2.026753141467369,False,2025-08
+MB101044,Lucknow,Sushant Golf City,Apartment,2.0,1397,Unfurnished,3.0,3.0,Rent,Ready to Move,14.9,5,Dealer,"Park, Parking",2026-09-04,Per Month,,5000.0,3.5790980672870436,False,2026-09
+MB101048,Mumbai,Andheri,Penthouse,4.0,2429,Semi-Furnished,2.0,2.0,Rent,Resale,21.3,3,Builder,Park,2025-11-15,Per Month,,5000.0,2.058460271716756,False,2025-11
+MB101053,Delhi,Vasant Kunj,Independent House,1.0,1497,Semi-Furnished,2.0,1.0,Rent,Under Construction,20.8,3,Owner,"Power Backup, Club House, Parking",2025-09-17,Per Month,,5000.0,3.3400133600534403,False,2025-09
+MB101055,Ghaziabad,Crossings Republik,Apartment,4.0,2651,Unfurnished,2.0,2.0,Rent,Resale,11.7,5,Builder,"Swimming Pool, Lift, Club House, Gym",2025-10-19,Per Month,,5000.0,1.8860807242549982,False,2025-10
+MB101056,Gurugram,Golf Course Road,Apartment,1.0,1591,Unfurnished,2.0,3.0,Rent,Ready to Move,19.9,5,Dealer,"Lift, Parking, Swimming Pool, Security",2025-05-13,Per Month,,5000.0,3.1426775612822127,False,2025-05
+MB101060,Delhi,Vasant Kunj,Studio Apartment,2.0,1331,Semi-Furnished,1.0,2.0,Rent,Ready to Move,16.5,2,Owner,"Power Backup, Security, Parking, Park",2026-03-17,Per Month,,5000.0,3.756574004507889,False,2026-03
+MB101061,Mumbai,Chembur,Independent House,3.0,1375,Unfurnished,2.0,2.0,Rent,New Launch,22.9,2,Dealer,Park,2025-07-22,Per Month,,5000.0,3.6363636363636362,False,2025-07
+MB101066,Greater Noida,Knowledge Park,Studio Apartment,3.0,2741,Unfurnished,3.0,1.0,Rent,Under Construction,16.9,1,Builder,"Lift, Swimming Pool",2025-02-22,Per Month,,5000.0,1.8241517694272162,False,2025-02
+MB101067,Bengaluru,Marathahalli,Independent House,4.0,2360,Semi-Furnished,2.0,4.0,Rent,Ready to Move,5.8,0,Owner,"Swimming Pool, Security, Parking",2026-04-30,Per Month,,5000.0,2.1186440677966103,False,2026-04
+MB101069,Mumbai,Borivali,Studio Apartment,3.0,1765,Semi-Furnished,3.0,0.0,Rent,Ready to Move,15.5,2,Owner,"Park, Security, Club House, Parking",2025-05-11,Per Month,,5000.0,2.8328611898016995,False,2025-05
+MB101070,Greater Noida,Noida Extension,Villa,4.0,2406,Semi-Furnished,3.0,2.0,Rent,New Launch,1.2,4,Owner,"Power Backup, Lift",2025-04-14,Per Month,,5000.0,2.0781379883624274,False,2025-04
+MB101071,Ghaziabad,Siddharth Vihar,Apartment,2.0,1087,Semi-Furnished,2.0,1.0,Rent,New Launch,6.5,1,Owner,Park,2025-10-09,Per Month,,5000.0,4.599816007359705,False,2025-10
+MB101078,Pune,Wakad,Independent House,2.0,1357,Semi-Furnished,1.0,3.0,Rent,Under Construction,1.5,2,Builder,"Swimming Pool, Security",2025-06-18,Per Month,,5000.0,3.6845983787767134,False,2025-06
+MB101079,Delhi,Vasant Kunj,Builder Floor,4.0,2494,Fully Furnished,2.0,2.0,Rent,Under Construction,7.9,1,Builder,"Park, Lift, Gym, Club House",2026-01-17,Per Month,,5000.0,2.0048115477145148,False,2026-01
+MB101086,Gurugram,Sector 67,Apartment,2.0,1193,Unfurnished,3.0,4.0,Rent,Under Construction,21.5,3,Dealer,Lift,2026-07-13,Per Month,,5000.0,4.191114836546522,False,2026-07
+MB101087,Ghaziabad,Raj Nagar,Studio Apartment,3.0,1924,Fully Furnished,3.0,1.0,Rent,Ready to Move,5.9,6,Dealer,"Park, Parking, Club House",2025-12-28,Per Month,,5000.0,2.598752598752599,False,2025-12
+MB101088,Mumbai,Unknown,Builder Floor,3.0,2112,Unfurnished,3.0,0.0,Rent,New Launch,16.3,3,Owner,"Lift, Park",2026-08-16,Per Month,,5000.0,2.367424242424242,False,2026-08
+MB101089,Mumbai,Powai,Builder Floor,2.0,1260,Semi-Furnished,2.0,1.0,Rent,Resale,13.3,1,Owner,Gym,2026-01-11,Per Month,,5000.0,3.9682539682539684,False,2026-01
+MB101091,Pune,Hadapsar,Penthouse,4.0,2123,Fully Furnished,2.0,1.0,Rent,Under Construction,16.0,2,Owner,"Power Backup, Park, Lift, Security",2025-09-02,Per Month,,5000.0,2.3551577955723033,False,2025-09
+MB101094,Delhi,Dwarka,Apartment,2.0,1744,Fully Furnished,3.0,1.0,Rent,New Launch,0.0,3,Dealer,"Club House, Gym, Security, Swimming Pool",2026-09-09,Per Month,,5000.0,2.86697247706422,False,2026-09
+MB101100,Delhi,Vasant Kunj,Apartment,2.0,1825,Unfurnished,2.0,1.0,Rent,Resale,12.7,7,Builder,"Swimming Pool, Club House, Parking, Security",2026-04-18,Per Month,,5000.0,2.73972602739726,False,2026-04
+MB101101,Gurugram,Sohna Road,Apartment,4.0,2046,Unfurnished,4.0,1.0,Rent,Ready to Move,1.0,4,Dealer,"Security, Gym, Lift, Swimming Pool",2025-11-18,Per Month,,5000.0,2.4437927663734116,False,2025-11
+MB101102,Noida,Sector 150,Independent House,2.0,1708,Semi-Furnished,2.0,1.0,Rent,Resale,20.9,3,Owner,"Parking, Gym, Lift, Power Backup",2025-09-15,Per Month,,5000.0,2.927400468384075,False,2025-09
+MB101103,Mumbai,Borivali,Builder Floor,4.0,2412,Semi-Furnished,4.0,1.0,Rent,Under Construction,12.1,3,Dealer,"Gym, Club House",2025-09-22,Per Month,,5000.0,2.0729684908789388,False,2025-09
+MB101109,Ghaziabad,Raj Nagar,Apartment,2.0,1367,Unfurnished,2.0,2.0,Rent,Resale,24.5,3,Dealer,"Security, Park",2025-08-25,Per Month,,5000.0,3.6576444769568397,False,2025-08
+MB101110,Noida,Sector 75,Studio Apartment,4.0,2585,Unfurnished,2.0,2.0,Rent,Under Construction,3.4,3,Builder,"Park, Lift",2025-03-29,Per Month,,5000.0,1.9342359767891684,False,2025-03
+MB101114,Noida,Sector 150,Apartment,4.0,2553,Fully Furnished,2.0,2.0,Rent,Ready to Move,10.7,4,Owner,"Park, Swimming Pool, Club House",2025-04-10,Per Month,,5000.0,1.9584802193497846,False,2025-04
+MB101115,Lucknow,Unknown,Apartment,5.0,2830,Fully Furnished,4.0,2.0,Rent,Resale,23.4,0,Dealer,"Power Backup, Gym",2025-06-14,Per Month,,5000.0,1.7667844522968197,False,2025-06
+MB101116,Bengaluru,Yelahanka,Builder Floor,5.0,2868,Fully Furnished,2.0,0.0,Rent,Ready to Move,11.8,6,Dealer,Park,2026-07-29,Per Month,,5000.0,1.7433751743375174,False,2026-07
+MB101122,Noida,Sector 75,Apartment,3.0,2009,Unfurnished,4.0,2.0,Rent,New Launch,11.7,6,Dealer,"Security, Gym",2026-02-17,Per Month,,5000.0,2.4888003982080638,False,2026-02
+MB101124,Ghaziabad,Crossings Republik,Apartment,4.0,2752,Semi-Furnished,1.0,1.0,Rent,New Launch,6.1,2,Dealer,"Park, Parking",2025-03-30,Per Month,,5000.0,1.816860465116279,False,2025-03
+MB101125,Mumbai,Andheri,Studio Apartment,4.0,2146,Fully Furnished,2.0,1.0,Rent,Under Construction,12.4,4,Dealer,Power Backup,2026-05-09,Per Month,,5000.0,2.3299161230195713,False,2026-05
+MB101127,Gurugram,Sector 49,Builder Floor,4.0,2597,Semi-Furnished,4.0,2.0,Rent,New Launch,24.4,9,Unknown,Security,2025-10-16,Per Month,,5000.0,1.9252984212552946,False,2025-10
+MB101130,Greater Noida,Knowledge Park,Apartment,3.0,2024,Fully Furnished,2.0,3.0,Rent,New Launch,19.3,4,Dealer,"Park, Lift",2025-10-23,Per Month,,5000.0,2.4703557312252964,False,2025-10
+MB101136,Ghaziabad,Raj Nagar,Independent House,3.0,2173,Semi-Furnished,1.0,2.0,Rent,Ready to Move,25.0,4,Owner,"Club House, Park, Lift, Power Backup",2025-03-24,Per Month,,5000.0,2.300966405890474,False,2025-03
+MB101143,Greater Noida,Knowledge Park,Apartment,4.0,2326,Semi-Furnished,2.0,1.0,Rent,Resale,19.7,0,Owner,"Security, Swimming Pool, Park, Club House",2026-03-30,Per Month,,5000.0,2.1496130696474633,False,2026-03
+MB101144,Delhi,Mayur Vihar,Apartment,2.0,1004,Unfurnished,2.0,1.0,Rent,Ready to Move,17.8,8,Dealer,"Power Backup, Security, Swimming Pool",2025-08-08,Per Month,,5000.0,4.9800796812749,False,2025-08
+MB101145,Noida,Sector 93A,Villa,3.0,1774,Unfurnished,2.0,2.0,Rent,Ready to Move,22.8,5,Dealer,"Lift, Security, Swimming Pool",2025-05-21,Per Month,,5000.0,2.818489289740699,False,2025-05
+MB101147,Lucknow,Aliganj,Independent House,3.0,1734,Unfurnished,4.0,1.0,Rent,Under Construction,9.0,8,Dealer,"Lift, Swimming Pool, Club House",2025-01-08,Per Month,,5000.0,2.883506343713956,False,2025-01
+MB101153,Ghaziabad,Raj Nagar,Apartment,2.0,1549,Fully Furnished,3.0,2.0,Rent,New Launch,20.1,3,Owner,"Gym, Swimming Pool, Lift, Power Backup",2025-09-27,Per Month,,5000.0,3.2278889606197545,False,2025-09
+MB101159,Gurugram,Sohna Road,Penthouse,3.0,2008,Unfurnished,3.0,1.0,Rent,Resale,13.6,4,Dealer,"Parking, Park, Gym, Swimming Pool",2026-03-21,Per Month,,5000.0,2.49003984063745,False,2026-03
+MB101162,Noida,Sector 137,Independent House,4.0,2363,Unfurnished,2.0,2.0,Rent,New Launch,21.7,5,Owner,"Parking, Gym",2026-01-15,Per Month,,5000.0,2.1159542953872195,False,2026-01
+MB101171,Ghaziabad,Raj Nagar,Apartment,3.0,2160,Fully Furnished,4.0,2.0,Rent,Ready to Move,24.6,5,Dealer,Swimming Pool,2025-10-08,Per Month,,5000.0,2.314814814814815,False,2025-10
+MB101174,Greater Noida,Knowledge Park,Apartment,1.0,1212,Semi-Furnished,2.0,2.0,Rent,New Launch,13.1,4,Dealer,"Park, Security, Power Backup, Lift",2026-04-16,Per Month,,5000.0,4.125412541254126,False,2026-04
+MB101179,Noida,Sector 62,Independent House,2.0,1369,Fully Furnished,2.0,1.0,Rent,Ready to Move,23.6,1,Builder,Swimming Pool,2025-03-30,Per Month,,5000.0,3.652300949598247,False,2025-03
+MB101182,Hyderabad,Kondapur,Builder Floor,2.0,1299,Semi-Furnished,2.0,3.0,Rent,Under Construction,10.6,2,Dealer,"Lift, Security, Gym",2026-07-26,Per Month,,5000.0,3.849114703618168,False,2026-07
+MB101183,Noida,Sector 93A,Apartment,3.0,1742,Semi-Furnished,2.0,,Rent,New Launch,9.4,5,Owner,Park,2026-07-29,Per Month,,5000.0,2.8702640642939152,False,2026-07
+MB101187,Bengaluru,Marathahalli,Apartment,2.0,1739,Unfurnished,1.0,2.0,Rent,New Launch,7.6,6,Owner,Park,2026-08-13,Per Month,,5000.0,2.875215641173088,False,2026-08
+MB101189,Delhi,Rohini,Independent House,3.0,1697,Fully Furnished,2.0,1.0,Rent,Under Construction,9.4,1,Dealer,Gym,2026-08-31,Per Month,,5000.0,2.946375957572186,False,2026-08
+MB101192,Pune,Hadapsar,Builder Floor,5.0,2976,Fully Furnished,2.0,,Rent,Ready to Move,12.2,5,Dealer,"Gym, Club House, Power Backup",2025-01-27,Per Month,,5000.0,1.6801075268817205,False,2025-01
+MB101197,Noida,Sector 62,Builder Floor,2.0,1362,Semi-Furnished,3.0,2.0,Rent,Resale,20.5,6,Owner,"Lift, Gym, Park",2025-01-05,Per Month,,5000.0,3.671071953010279,False,2025-01
+MB101199,Lucknow,Sushant Golf City,Apartment,4.0,2084,Unfurnished,2.0,2.0,Rent,New Launch,7.8,6,Dealer,None,2026-01-07,Per Month,,5000.0,2.399232245681382,False,2026-01
+MB101204,Bengaluru,Whitefield,Apartment,4.0,2418,Fully Furnished,3.0,0.0,Rent,Under Construction,20.3,2,Owner,"Swimming Pool, Club House, Security, Lift",2026-08-21,Per Month,,5000.0,2.0678246484698097,False,2026-08
+MB101206,Ghaziabad,Siddharth Vihar,Builder Floor,5.0,3068,Semi-Furnished,3.0,2.0,Rent,Under Construction,11.2,4,Dealer,"Parking, Power Backup, Lift",2026-08-08,Per Month,,5000.0,1.6297262059973925,False,2026-08
+MB101211,Greater Noida,Techzone 4,Apartment,4.0,2617,Semi-Furnished,2.0,,Rent,Under Construction,8.0,2,Dealer,"Park, Parking, Swimming Pool",2025-11-18,Per Month,,5000.0,1.9105846388995031,False,2025-11
+MB101213,Hyderabad,Madhapur,Studio Apartment,1.0,998,Unfurnished,3.0,2.0,Rent,Resale,11.2,4,Dealer,"Gym, Swimming Pool, Security",2026-09-03,Per Month,,5000.0,5.01002004008016,False,2026-09
+MB101218,Hyderabad,Gachibowli,Apartment,4.0,2337,Fully Furnished,3.0,0.0,Rent,Under Construction,18.6,2,Owner,Lift,2026-02-11,Per Month,,5000.0,2.139495079161318,False,2026-02
+MB101219,Gurugram,Sector 57,Builder Floor,3.0,1992,Semi-Furnished,2.0,3.0,Rent,New Launch,5.8,9,Owner,"Park, Parking, Gym, Swimming Pool",2026-01-15,Per Month,,5000.0,2.5100401606425704,False,2026-01
+MB101228,Gurugram,Sector 67,Apartment,3.0,2174,Unfurnished,2.0,4.0,Rent,Ready to Move,21.2,2,Dealer,"Lift, Swimming Pool, Gym, Power Backup",2026-03-01,Per Month,,5000.0,2.2999080036798527,False,2026-03
+MB101233,Greater Noida,Knowledge Park,Builder Floor,3.0,2108,Semi-Furnished,1.0,2.0,Rent,Ready to Move,22.5,1,Owner,"Gym, Power Backup, Lift",2026-05-21,Per Month,,5000.0,2.3719165085388996,False,2026-05
+MB101237,Gurugram,Sector 67,Apartment,3.0,1770,Fully Furnished,1.0,1.0,Rent,Resale,6.9,2,Builder,"Park, Swimming Pool",2025-12-18,Per Month,,5000.0,2.824858757062147,False,2025-12
+MB101239,Bengaluru,HSR Layout,Apartment,2.0,1366,Fully Furnished,1.0,1.0,Rent,Resale,17.7,5,Dealer,Lift,2026-06-03,Per Month,,5000.0,3.6603221083455346,False,2026-06
+MB101243,Greater Noida,Unknown,Studio Apartment,4.0,1977,Unfurnished,1.0,2.0,Rent,Ready to Move,3.1,2,Builder,"Club House, Gym, Lift",2025-03-18,Per Month,,5000.0,2.5290844714213456,False,2025-03
+MB101246,Delhi,Mayur Vihar,Apartment,3.0,2010,Unknown,2.0,3.0,Rent,New Launch,23.2,3,Dealer,Power Backup,2026-05-13,Per Month,,5000.0,2.487562189054726,False,2026-05
+MB101250,Hyderabad,Kukatpally,Apartment,3.0,1996,Semi-Furnished,3.0,1.0,Rent,Under Construction,21.7,4,Dealer,"Gym, Park, Security, Power Backup",2025-02-12,Per Month,,5000.0,2.50501002004008,False,2025-02
+MB101253,Delhi,Dwarka,Apartment,4.0,2431,Fully Furnished,2.0,2.0,Rent,Under Construction,6.3,2,Owner,"Power Backup, Parking, Security",2025-12-04,Per Month,,5000.0,2.0567667626491155,False,2025-12
+MB101258,Lucknow,Aliganj,Apartment,4.0,2579,Semi-Furnished,2.0,1.0,Rent,Resale,3.0,9,Dealer,"Parking, Park",2025-04-13,Per Month,,5000.0,1.9387359441644048,False,2025-04
+MB101259,Delhi,Unknown,Villa,3.0,1900,Semi-Furnished,1.0,2.0,Rent,Ready to Move,23.0,3,Dealer,Security,2025-09-17,Per Month,,5000.0,2.6315789473684212,False,2025-09
+MB101260,Mumbai,Borivali,Builder Floor,5.0,2482,Fully Furnished,2.0,1.0,Rent,New Launch,22.3,1,Dealer,Gym,2026-05-22,Per Month,,5000.0,2.0145044319097503,False,2026-05
+MB101266,Lucknow,Gomti Nagar,Studio Apartment,5.0,2721,Semi-Furnished,4.0,1.0,Rent,Under Construction,1.8,3,Dealer,"Club House, Swimming Pool, Gym, Security",2026-02-03,Per Month,,5000.0,1.8375597206909224,False,2026-02
+MB101273,Ghaziabad,Indirapuram,Builder Floor,2.0,1455,Semi-Furnished,3.0,2.0,Rent,Resale,20.0,3,Builder,"Gym, Security, Club House",2026-03-04,Per Month,,5000.0,3.4364261168384878,False,2026-03
+MB101274,Ghaziabad,Crossings Republik,Studio Apartment,1.0,1279,Unfurnished,1.0,2.0,Rent,New Launch,6.9,1,Dealer,Gym,2026-07-03,Per Month,,5000.0,3.9093041438623923,False,2026-07
+MB101277,Gurugram,Sohna Road,Apartment,4.0,2491,Unfurnished,3.0,2.0,Rent,Under Construction,12.0,4,Dealer,"Park, Power Backup, Lift, Parking",2026-01-29,Per Month,,5000.0,2.007226013649137,False,2026-01
+MB101280,Bengaluru,Yelahanka,Apartment,3.0,1849,Semi-Furnished,2.0,4.0,Rent,Ready to Move,11.1,5,Dealer,Park,2026-09-09,Per Month,,5000.0,2.7041644131963225,False,2026-09
+MB101293,Gurugram,Unknown,Apartment,3.0,1690,Unfurnished,4.0,2.0,Rent,New Launch,2.1,5,Dealer,"Power Backup, Gym, Parking, Park",2026-06-25,Per Month,,5000.0,2.9585798816568047,False,2026-06
+MB101294,Gurugram,Sector 49,Apartment,2.0,1658,Fully Furnished,2.0,0.0,Rent,Ready to Move,0.8,4,Builder,"Parking, Swimming Pool, Power Backup",2025-07-28,Per Month,,5000.0,3.0156815440289506,False,2025-07
+MB101295,Ghaziabad,Vaishali,Builder Floor,2.0,1625,Semi-Furnished,2.0,2.0,Rent,Under Construction,1.6,4,Builder,"Gym, Lift, Park",2025-02-11,Per Month,,5000.0,3.076923076923077,False,2025-02
+MB101299,Hyderabad,Unknown,Studio Apartment,2.0,1746,Semi-Furnished,3.0,1.0,Rent,New Launch,12.3,5,Dealer,"Gym, Swimming Pool, Lift",2025-02-14,Per Month,,5000.0,2.86368843069874,False,2025-02
+MB101300,Pune,Baner,Apartment,3.0,1928,Unfurnished,3.0,3.0,Rent,Under Construction,15.9,7,Dealer,"Swimming Pool, Power Backup, Security, Parking",2026-01-27,Per Month,,5000.0,2.5933609958506225,False,2026-01
+MB101304,Pune,Kharadi,Apartment,2.0,1492,Fully Furnished,4.0,1.0,Rent,Resale,6.7,2,Dealer,Security,2025-10-15,Per Month,,5000.0,3.351206434316354,False,2025-10
+MB101308,Delhi,Rohini,Apartment,1.0,1199,Fully Furnished,2.0,1.0,Rent,Resale,14.7,7,Dealer,"Park, Gym, Lift",2026-02-26,Per Month,,5000.0,4.170141784820684,False,2026-02
+MB101310,Lucknow,Gomti Nagar,Independent House,1.0,1241,Unfurnished,2.0,1.0,Rent,Under Construction,9.5,0,Dealer,"Gym, Park, Club House, Power Backup",2025-08-03,Per Month,,5000.0,4.0290088638195005,False,2025-08
+MB101312,Lucknow,Aliganj,Apartment,3.0,1833,Fully Furnished,4.0,2.0,Rent,Ready to Move,24.5,4,Dealer,Security,2025-05-03,Per Month,,5000.0,2.727768685215494,False,2025-05
+MB101315,Noida,Sector 62,Studio Apartment,3.0,2136,Fully Furnished,2.0,2.0,Rent,Ready to Move,17.4,5,Dealer,"Gym, Club House, Swimming Pool, Parking",2026-05-14,Per Month,,5000.0,2.3408239700374533,False,2026-05
+MB101324,Lucknow,Aliganj,Apartment,3.0,1803,Unfurnished,1.0,0.0,Rent,Under Construction,17.7,6,Builder,"Swimming Pool, Parking, Club House",2025-09-30,Per Month,,5000.0,2.7731558513588466,False,2025-09
+MB101332,Bengaluru,Whitefield,Penthouse,2.0,1512,Unfurnished,2.0,0.0,Rent,New Launch,19.5,4,Builder,"Gym, Swimming Pool, Security, Parking",2025-10-20,Per Month,,5000.0,3.306878306878307,False,2025-10
+MB101337,Gurugram,Sector 67,Builder Floor,1.0,996,Semi-Furnished,2.0,0.0,Rent,Ready to Move,24.6,5,Dealer,"Power Backup, Club House, Park, Lift",2025-05-11,Per Month,,5000.0,5.020080321285141,False,2025-05
+MB101341,Hyderabad,Gachibowli,Builder Floor,4.0,2194,Unfurnished,3.0,2.0,Rent,New Launch,8.9,8,Owner,Lift,2025-02-17,Per Month,,5000.0,2.2789425706472195,False,2025-02
+MB101342,Noida,Sector 75,Independent House,5.0,3173,Fully Furnished,3.0,3.0,Rent,New Launch,22.1,3,Dealer,Club House,2025-02-11,Per Month,,5000.0,1.575795776867318,False,2025-02
+MB101350,Mumbai,Chembur,Independent House,1.0,1159,Fully Furnished,3.0,2.0,Rent,New Launch,0.2,4,Dealer,Swimming Pool,2025-09-17,Per Month,,5000.0,4.3140638481449525,False,2025-09
+MB101351,Gurugram,Golf Course Road,Villa,2.0,1686,Unfurnished,3.0,2.0,Rent,Under Construction,10.2,3,Owner,"Gym, Security, Parking, Lift",2025-02-12,Per Month,,5000.0,2.965599051008304,False,2025-02
+MB101352,Bengaluru,HSR Layout,Apartment,5.0,2635,Semi-Furnished,3.0,2.0,Rent,Under Construction,21.5,0,Owner,"Club House, Swimming Pool, Park",2026-03-16,Per Month,,5000.0,1.8975332068311195,False,2026-03
+MB101355,Hyderabad,Kukatpally,Villa,2.0,1102,Semi-Furnished,2.0,0.0,Rent,Resale,5.2,4,Dealer,Park,2025-09-22,Per Month,,5000.0,4.537205081669692,False,2025-09
+MB101359,Pune,Kharadi,Independent House,3.0,1684,Unfurnished,1.0,1.0,Rent,New Launch,3.5,4,Owner,"Gym, Park",2025-04-28,Per Month,,5000.0,2.969121140142518,False,2025-04
+MB101373,Gurugram,Sector 67,Builder Floor,3.0,1746,Fully Furnished,2.0,1.0,Rent,Under Construction,3.0,4,Owner,"Park, Parking",2025-06-12,Per Month,,5000.0,2.86368843069874,False,2025-06
+MB101378,Mumbai,Chembur,Builder Floor,2.0,1526,Fully Furnished,2.0,1.0,Rent,Ready to Move,19.0,2,Dealer,Gym,2026-07-27,Per Month,,5000.0,3.2765399737876804,False,2026-07
+MB101380,Mumbai,Chembur,Studio Apartment,3.0,1602,Fully Furnished,2.0,2.0,Rent,Resale,21.9,10,Dealer,"Parking, Swimming Pool, Lift, Gym",2025-01-07,Per Month,,5000.0,3.1210986267166043,False,2025-01
+MB101381,Pune,Wakad,Studio Apartment,3.0,1916,Unknown,1.0,2.0,Rent,New Launch,4.5,5,Owner,"Lift, Club House, Swimming Pool",2025-10-15,Per Month,,5000.0,2.6096033402922756,False,2025-10
+MB101389,Mumbai,Powai,Builder Floor,5.0,2750,Semi-Furnished,2.0,0.0,Rent,New Launch,15.9,4,Owner,"Security, Power Backup",2025-12-29,Per Month,,5000.0,1.8181818181818181,False,2025-12
+MB101390,Noida,Sector 137,Apartment,2.0,1459,Semi-Furnished,3.0,1.0,Rent,Under Construction,21.3,4,Builder,"Security, Gym, Parking",2025-01-25,Per Month,,5000.0,3.427004797806717,False,2025-01
+MB101392,Bengaluru,Marathahalli,Apartment,3.0,1833,Fully Furnished,1.0,1.0,Rent,Under Construction,8.7,4,Dealer,"Park, Lift, Parking",2025-04-17,Per Month,,5000.0,2.727768685215494,False,2025-04
+MB101393,Mumbai,Andheri,Apartment,3.0,2278,Fully Furnished,2.0,1.0,Rent,Resale,3.6,3,Owner,Lift,2025-11-21,Per Month,,5000.0,2.194907813871817,False,2025-11
+MB101394,Pune,Baner,Builder Floor,2.0,1537,Unfurnished,3.0,2.0,Rent,Under Construction,13.7,2,Dealer,"Swimming Pool, Security, Power Backup",2025-12-02,Per Month,,5000.0,3.2530904359141184,False,2025-12
+MB101395,Ghaziabad,Indirapuram,Penthouse,2.0,1280,Unfurnished,2.0,2.0,Rent,Under Construction,21.5,8,Builder,"Security, Lift, Park",2026-05-26,Per Month,,5000.0,3.90625,False,2026-05
+MB101398,Greater Noida,Noida Extension,Builder Floor,4.0,2638,Unfurnished,4.0,0.0,Rent,Resale,17.8,2,Owner,"Security, Club House, Power Backup",2026-01-02,Per Month,,5000.0,1.8953752843062925,False,2026-01
+MB101402,Ghaziabad,Vaishali,Apartment,1.0,701,Fully Furnished,1.0,0.0,Rent,Under Construction,16.2,7,Builder,"Park, Club House, Parking, Security",2025-11-17,Per Month,,5000.0,7.132667617689016,True,2025-11
+MB101408,Pune,Wakad,Apartment,4.0,1780,Unfurnished,1.0,1.0,Rent,Resale,14.5,6,Builder,"Power Backup, Security, Parking",2026-03-27,Per Month,,5000.0,2.808988764044944,False,2026-03
+MB101410,Bengaluru,Marathahalli,Builder Floor,4.0,2536,Semi-Furnished,2.0,2.0,Rent,New Launch,4.5,5,Dealer,"Park, Power Backup",2026-07-17,Per Month,,5000.0,1.971608832807571,False,2026-07
+MB101411,Pune,Wakad,Villa,3.0,1791,Semi-Furnished,2.0,1.0,Rent,Ready to Move,16.9,4,Owner,"Park, Swimming Pool",2025-04-26,Per Month,,5000.0,2.7917364600781687,False,2025-04
+MB101414,Gurugram,Sector 49,Studio Apartment,3.0,1795,Semi-Furnished,2.0,2.0,Rent,Under Construction,19.0,1,Dealer,Club House,2025-08-07,Per Month,,5000.0,2.785515320334262,False,2025-08
+MB101416,Greater Noida,Knowledge Park,Independent House,5.0,3166,Semi-Furnished,1.0,2.0,Rent,Resale,16.8,6,Owner,Power Backup,2025-04-03,Per Month,,5000.0,1.5792798483891346,False,2025-04
+MB101417,Mumbai,Borivali,Apartment,3.0,1979,Semi-Furnished,1.0,2.0,Rent,Under Construction,6.0,2,Owner,"Park, Security, Gym, Club House",2025-09-02,Per Month,,5000.0,2.526528549772612,False,2025-09
+MB101420,Gurugram,Sector 49,Apartment,3.0,1855,Fully Furnished,,4.0,Rent,Ready to Move,14.8,0,Owner,Security,2026-02-15,Per Month,,5000.0,2.6954177897574123,False,2026-02
+MB101421,Gurugram,Golf Course Road,Apartment,1.0,1305,Unfurnished,2.0,0.0,Rent,Resale,19.3,6,Builder,"Park, Gym, Power Backup",2026-01-22,Per Month,,5000.0,3.8314176245210727,False,2026-01
+MB101423,Gurugram,Sector 49,Independent House,3.0,2179,Fully Furnished,1.0,3.0,Rent,Ready to Move,23.7,3,Owner,"Security, Power Backup",2026-06-11,Per Month,,5000.0,2.2946305644791187,False,2026-06
+MB101427,Delhi,Mayur Vihar,Apartment,3.0,2119,Semi-Furnished,2.0,1.0,Rent,Ready to Move,7.1,0,Dealer,"Park, Power Backup, Security",2025-06-26,Per Month,,5000.0,2.359603586597452,False,2025-06
+MB101432,Gurugram,Golf Course Road,Apartment,4.0,2687,Fully Furnished,3.0,1.0,Rent,Under Construction,11.4,1,Dealer,"Parking, Lift",2026-08-10,Per Month,,5000.0,1.8608113137327875,False,2026-08
+MB101436,Greater Noida,Techzone 4,Apartment,2.0,1708,Unfurnished,1.0,3.0,Rent,Ready to Move,1.1,5,Dealer,"Gym, Security, Club House, Parking",2025-09-01,Per Month,,5000.0,2.927400468384075,False,2025-09
+MB101440,Greater Noida,Alpha 1,Penthouse,2.0,1224,Unfurnished,3.0,2.0,Rent,Ready to Move,18.2,4,Owner,"Gym, Security, Club House, Parking",2025-11-30,Per Month,,5000.0,4.084967320261438,False,2025-11
+MB101441,Pune,Baner,Villa,4.0,2803,Unfurnished,2.0,2.0,Rent,New Launch,9.8,8,Owner,Power Backup,2025-07-06,Per Month,,5000.0,1.783803068141277,False,2025-07
+MB101445,Bengaluru,HSR Layout,Apartment,5.0,2813,Fully Furnished,1.0,3.0,Rent,New Launch,3.6,1,Owner,"Power Backup, Gym",2026-02-19,Per Month,,5000.0,1.7774617845716316,False,2026-02
+MB101446,Lucknow,Gomti Nagar,Independent House,2.0,1644,Fully Furnished,2.0,2.0,Rent,Under Construction,20.1,5,Dealer,"Parking, Club House, Gym",2026-06-09,Per Month,,5000.0,3.0413625304136254,False,2026-06
+MB101448,Greater Noida,Noida Extension,Apartment,1.0,869,Semi-Furnished,1.0,2.0,Rent,New Launch,11.2,5,Owner,"Park, Parking, Gym",2025-02-04,Per Month,,5000.0,5.7537399309551205,False,2025-02
+MB101451,Mumbai,Thane West,Independent House,,759,Semi-Furnished,3.0,0.0,Rent,New Launch,5.9,8,Dealer,"Security, Gym, Parking, Power Backup",2025-10-03,Per Month,,5000.0,6.587615283267457,True,2025-10
+MB101458,Lucknow,Indira Nagar,Villa,1.0,1247,Unfurnished,2.0,2.0,Rent,Under Construction,20.6,5,Builder,"Park, Parking",2025-10-29,Per Month,,5000.0,4.0096230954290295,False,2025-10
+MB101462,Gurugram,Unknown,Builder Floor,3.0,1698,Semi-Furnished,1.0,2.0,Rent,New Launch,7.6,2,Dealer,"Parking, Gym, Lift",2026-08-05,Per Month,,5000.0,2.944640753828033,False,2026-08
+MB101466,Pune,Kharadi,Apartment,1.0,773,Unfurnished,2.0,2.0,Rent,New Launch,3.3,3,Dealer,"Gym, Parking",2025-10-21,Per Month,,5000.0,6.468305304010349,True,2025-10
+MB101467,Mumbai,Thane West,Apartment,3.0,2376,Unfurnished,1.0,1.0,Rent,New Launch,9.7,4,Dealer,Swimming Pool,2025-01-15,Per Month,,5000.0,2.1043771043771042,False,2025-01
+MB101483,Ghaziabad,Vaishali,Independent House,3.0,2134,Semi-Furnished,2.0,0.0,Rent,Under Construction,18.2,4,Dealer,"Security, Lift",2025-10-04,Per Month,,5000.0,2.343017806935333,False,2025-10
+MB101493,Bengaluru,Electronic City,Apartment,4.0,2377,Semi-Furnished,3.0,2.0,Rent,New Launch,1.0,5,Dealer,"Parking, Club House",2026-06-10,Per Month,,5000.0,2.103491796381994,False,2026-06
+MB101497,Bengaluru,Electronic City,Builder Floor,2.0,1568,Unfurnished,2.0,2.0,Rent,Ready to Move,15.3,6,Owner,"Power Backup, Club House, Park, Swimming Pool",2026-08-07,Per Month,,5000.0,3.188775510204082,False,2026-08
+MB101501,Ghaziabad,Vaishali,Apartment,4.0,2155,Unfurnished,1.0,1.0,Rent,Ready to Move,4.2,3,Dealer,"Security, Lift",2026-06-22,Per Month,,5000.0,2.320185614849188,False,2026-06
+MB101502,Delhi,Saket,Apartment,3.0,2277,Unfurnished,1.0,0.0,Rent,Under Construction,7.7,4,Builder,"Park, Gym",2026-06-14,Per Month,,5000.0,2.1958717610891525,False,2026-06
+MB101503,Delhi,Rohini,Villa,1.0,1114,Fully Furnished,4.0,1.0,Rent,Resale,22.4,6,Dealer,"Park, Club House, Security",2026-02-25,Per Month,,5000.0,4.488330341113106,False,2026-02
+MB101505,Pune,Hinjewadi,Independent House,2.0,1500,Fully Furnished,1.0,2.0,Rent,Ready to Move,14.2,4,Dealer,"Gym, Parking, Power Backup",2025-04-12,Per Month,,5000.0,3.3333333333333335,False,2025-04
+MB101509,Bengaluru,Unknown,Apartment,3.0,1721,Fully Furnished,2.0,3.0,Rent,Ready to Move,22.1,1,Builder,"Security, Power Backup",2026-06-12,Per Month,,5000.0,2.905287623474724,False,2026-06
+MB101510,Mumbai,Borivali,Apartment,4.0,2526,Semi-Furnished,3.0,,Rent,New Launch,4.8,5,Dealer,"Club House, Security",2025-02-16,Per Month,,5000.0,1.9794140934283453,False,2025-02
+MB101511,Greater Noida,Alpha 1,Villa,3.0,1689,Fully Furnished,4.0,2.0,Rent,Ready to Move,22.0,5,Builder,"Parking, Gym",2025-07-30,Per Month,,5000.0,2.960331557134399,False,2025-07
+MB101512,Mumbai,Chembur,Builder Floor,2.0,1369,Semi-Furnished,2.0,0.0,Rent,Ready to Move,21.5,1,Owner,"Power Backup, Swimming Pool, Security, Park",2026-03-27,Per Month,,5000.0,3.652300949598247,False,2026-03
+MB101517,Noida,Sector 75,Apartment,3.0,1894,Semi-Furnished,1.0,0.0,Rent,Ready to Move,24.8,5,Builder,Lift,2025-11-14,Per Month,,5000.0,2.6399155227032733,False,2025-11
+MB101518,Pune,Wakad,Independent House,2.0,1527,Fully Furnished,2.0,1.0,Rent,New Launch,0.5,2,Unknown,"Park, Club House, Security, Swimming Pool",2025-11-29,Per Month,,5000.0,3.2743942370661427,False,2025-11
+MB101520,Mumbai,Powai,Apartment,2.0,1418,Unfurnished,2.0,1.0,Rent,Resale,20.5,3,Dealer,"Club House, Park",2025-09-23,Per Month,,5000.0,3.5260930888575457,False,2025-09
+MB101524,Noida,Sector 93A,Apartment,2.0,1555,Unfurnished,2.0,2.0,Rent,Under Construction,19.6,0,Dealer,"Power Backup, Parking, Gym",2025-03-17,Per Month,,5000.0,3.215434083601286,False,2025-03
+MB101533,Lucknow,Aliganj,Apartment,2.0,1569,Semi-Furnished,2.0,2.0,Rent,Ready to Move,20.8,2,Owner,"Power Backup, Security, Gym, Club House",2025-06-20,Per Month,,5000.0,3.186743148502231,False,2025-06
+MB101537,Bengaluru,Marathahalli,Apartment,2.0,1547,Unfurnished,2.0,3.0,Rent,New Launch,3.7,4,Dealer,"Power Backup, Lift",2026-05-11,Per Month,,5000.0,3.2320620555914674,False,2026-05
+MB101538,Ghaziabad,Vaishali,Apartment,3.0,2147,Unfurnished,2.0,2.0,Rent,Resale,11.7,5,Owner,Parking,2025-11-20,Per Month,,5000.0,2.328830926874709,False,2025-11
+MB101542,Ghaziabad,Unknown,Apartment,4.0,2933,Unfurnished,3.0,3.0,Rent,Resale,1.9,4,Owner,"Lift, Power Backup, Parking, Club House",2025-05-29,Per Month,,5000.0,1.7047391749062393,False,2025-05
+MB101546,Delhi,Saket,Apartment,3.0,1711,Unfurnished,1.0,2.0,Rent,New Launch,2.0,4,Owner,Parking,2026-04-26,Per Month,,5000.0,2.922267679719462,False,2026-04
+MB101550,Pune,Hadapsar,Apartment,2.0,1510,Unfurnished,2.0,1.0,Rent,Ready to Move,10.7,2,Dealer,"Gym, Club House, Swimming Pool, Lift",2026-01-11,Per Month,,5000.0,3.3112582781456954,False,2026-01
+MB101551,Lucknow,Sushant Golf City,Apartment,2.0,945,Unfurnished,2.0,2.0,Rent,Ready to Move,14.1,6,Builder,Park,2026-05-22,Per Month,,5000.0,5.291005291005291,False,2026-05
+MB101553,Mumbai,Chembur,Apartment,3.0,1825,Semi-Furnished,1.0,1.0,Rent,New Launch,17.9,1,Dealer,"Lift, Power Backup, Parking, Security",2025-07-21,Per Month,,5000.0,2.73972602739726,False,2025-07
+MB101554,Gurugram,Sohna Road,Apartment,2.0,1518,Semi-Furnished,1.0,0.0,Rent,Resale,9.1,3,Owner,"Park, Lift, Power Backup, Gym",2025-09-19,Per Month,,5000.0,3.2938076416337285,False,2025-09
+MB101555,Greater Noida,Pari Chowk,Independent House,3.0,1691,Fully Furnished,1.0,3.0,Rent,Resale,13.1,3,Dealer,"Lift, Club House",2025-11-24,Per Month,,5000.0,2.9568302779420463,False,2025-11
+MB101567,Bengaluru,Whitefield,Studio Apartment,2.0,1556,Semi-Furnished,3.0,3.0,Rent,Ready to Move,13.7,3,Dealer,"Security, Parking, Power Backup",2026-02-07,Per Month,,5000.0,3.2133676092544987,False,2026-02
+MB101576,Hyderabad,Madhapur,Builder Floor,2.0,1346,Unfurnished,1.0,4.0,Rent,Under Construction,1.1,0,Dealer,Park,2026-07-02,Per Month,,5000.0,3.7147102526002973,False,2026-07
+MB101583,Lucknow,Gomti Nagar,Builder Floor,2.0,1724,Semi-Furnished,2.0,3.0,Rent,New Launch,24.0,8,Dealer,"Security, Gym",2025-12-02,Per Month,,5000.0,2.9002320185614847,False,2025-12
+MB101587,Noida,Sector 137,Apartment,3.0,1715,Unfurnished,2.0,2.0,Rent,Resale,20.5,6,Dealer,"Park, Parking, Power Backup",2026-01-01,Per Month,,5000.0,2.9154518950437316,False,2026-01
+MB101596,Ghaziabad,Raj Nagar,Apartment,4.0,2548,Semi-Furnished,1.0,1.0,Rent,Ready to Move,6.2,3,Owner,Security,2025-03-02,Per Month,,5000.0,1.9623233908948194,False,2025-03
+MB101600,Gurugram,Sector 57,Apartment,3.0,2116,Unfurnished,3.0,2.0,Rent,Ready to Move,3.4,4,Dealer,Park,2026-03-25,Per Month,,5000.0,2.3629489603024574,False,2026-03
+MB101601,Lucknow,Aliganj,Apartment,3.0,1999,Unfurnished,1.0,2.0,Rent,Under Construction,23.7,4,Owner,"Park, Gym, Lift, Security",2026-01-22,Per Month,,5000.0,2.5012506253126565,False,2026-01
+MB101602,Greater Noida,Techzone 4,Studio Apartment,2.0,1224,Fully Furnished,2.0,3.0,Rent,Resale,14.7,5,Dealer,"Swimming Pool, Lift, Gym",2026-01-06,Per Month,,5000.0,4.084967320261438,False,2026-01
+MB101606,Mumbai,Chembur,Penthouse,2.0,1864,Fully Furnished,3.0,2.0,Rent,Ready to Move,6.0,3,Owner,"Club House, Gym, Park",2025-10-21,Per Month,,5000.0,2.6824034334763946,False,2025-10
+MB101609,Mumbai,Borivali,Apartment,2.0,1124,Fully Furnished,3.0,4.0,Rent,Ready to Move,17.1,6,Dealer,"Swimming Pool, Park",2026-07-21,Per Month,,5000.0,4.448398576512456,False,2026-07
+MB101610,Pune,Hadapsar,Apartment,4.0,2121,Fully Furnished,2.0,0.0,Rent,Under Construction,22.5,4,Dealer,"Parking, Park, Swimming Pool, Club House",2026-06-15,Per Month,,5000.0,2.3573785950023574,False,2026-06
+MB101631,Delhi,Mayur Vihar,Apartment,1.0,719,Unfurnished,2.0,1.0,Rent,Resale,12.3,5,Dealer,"Club House, Security",2026-01-03,Per Month,,5000.0,6.954102920723226,True,2026-01
+MB101634,Gurugram,Golf Course Road,Villa,2.0,1150,Semi-Furnished,2.0,1.0,Rent,New Launch,12.7,2,Dealer,"Park, Swimming Pool, Lift, Gym",2025-05-08,Per Month,,5000.0,4.3478260869565215,False,2025-05
+MB101639,Hyderabad,Madhapur,Apartment,2.0,1351,Unfurnished,2.0,3.0,Rent,Resale,1.2,3,Dealer,"Security, Lift",2025-05-04,Per Month,,5000.0,3.7009622501850483,False,2025-05
+MB101640,Mumbai,Thane West,Apartment,4.0,2460,Semi-Furnished,4.0,2.0,Rent,Under Construction,9.2,7,Dealer,"Swimming Pool, Club House, Security",2026-06-17,Per Month,,5000.0,2.032520325203252,False,2026-06
+MB101647,Greater Noida,Alpha 1,Studio Apartment,3.0,1782,Semi-Furnished,3.0,4.0,Rent,New Launch,18.3,6,Dealer,"Park, Security, Parking, Club House",2025-01-09,Per Month,,5000.0,2.8058361391694726,False,2025-01
+MB101648,Pune,Hadapsar,Builder Floor,3.0,1655,Fully Furnished,3.0,2.0,Rent,Resale,22.8,5,Dealer,"Power Backup, Lift, Gym, Swimming Pool",2026-07-04,Per Month,,5000.0,3.0211480362537766,False,2026-07
+MB101649,Pune,Hadapsar,Apartment,2.0,1522,Semi-Furnished,1.0,3.0,Rent,Resale,13.5,3,Dealer,"Parking, Gym",2025-09-09,Per Month,,5000.0,3.2851511169513796,False,2025-09
+MB101652,Gurugram,Sector 67,Apartment,2.0,1403,Fully Furnished,3.0,2.0,Rent,Under Construction,19.6,1,Builder,Parking,2026-07-09,Per Month,,5000.0,3.563791874554526,False,2026-07
+MB101656,Mumbai,Borivali,Villa,2.0,1313,Unfurnished,1.0,3.0,Rent,Ready to Move,10.6,4,Owner,"Park, Lift, Gym, Power Backup",2025-10-23,Per Month,,5000.0,3.808073115003808,False,2025-10
+MB101658,Noida,Sector 93A,Studio Apartment,2.0,1358,Unfurnished,2.0,3.0,Rent,Under Construction,21.1,7,Dealer,"Power Backup, Park, Security, Gym",2026-02-06,Per Month,,5000.0,3.681885125184094,False,2026-02
+MB101664,Gurugram,Sector 49,Villa,3.0,1753,Semi-Furnished,1.0,3.0,Rent,Ready to Move,13.4,1,Owner,"Gym, Security, Swimming Pool, Lift",2025-08-14,Per Month,,5000.0,2.852253280091272,False,2025-08
+MB101665,Bengaluru,Yelahanka,Independent House,3.0,1971,Unfurnished,2.0,4.0,Rent,New Launch,5.0,2,Owner,Gym,2026-01-23,Per Month,,5000.0,2.536783358701167,False,2026-01
+MB101667,Hyderabad,Kondapur,Apartment,4.0,2611,Semi-Furnished,2.0,2.0,Rent,Ready to Move,19.7,6,Owner,"Club House, Gym, Security",2025-09-17,Per Month,,5000.0,1.9149751053236308,False,2025-09
+MB101668,Pune,Kharadi,Studio Apartment,3.0,1836,Semi-Furnished,2.0,2.0,Rent,New Launch,3.6,6,Dealer,"Security, Club House, Swimming Pool, Power Backup",2026-07-11,Per Month,,5000.0,2.7233115468409586,False,2026-07
+MB101669,Pune,Hinjewadi,Apartment,2.0,1678,Semi-Furnished,1.0,2.0,Rent,Ready to Move,19.7,3,Dealer,"Power Backup, Lift",2026-06-26,Per Month,,5000.0,2.9797377830750893,False,2026-06
+MB101672,Lucknow,Sushant Golf City,Penthouse,2.0,1345,Fully Furnished,1.0,0.0,Rent,Under Construction,5.7,4,Owner,Parking,2026-06-19,Per Month,,5000.0,3.717472118959108,False,2026-06
+MB101686,Mumbai,Borivali,Apartment,1.0,1102,Fully Furnished,2.0,2.0,Rent,Under Construction,9.4,3,Dealer,"Security, Club House, Power Backup",2026-01-18,Per Month,,5000.0,4.537205081669692,False,2026-01
+MB101687,Hyderabad,Gachibowli,Builder Floor,1.0,1014,Fully Furnished,2.0,0.0,Rent,Ready to Move,24.0,3,Dealer,"Swimming Pool, Gym, Parking, Security",2026-09-01,Per Month,,5000.0,4.930966469428008,False,2026-09
+MB101689,Lucknow,Gomti Nagar,Builder Floor,2.0,1490,Fully Furnished,2.0,2.0,Rent,Under Construction,8.7,2,Dealer,"Gym, Security, Park",2026-08-01,Per Month,,5000.0,3.3557046979865772,False,2026-08
+MB101694,Lucknow,Gomti Nagar,Builder Floor,3.0,1787,Fully Furnished,1.0,2.0,Rent,Resale,18.3,3,Dealer,Gym,2026-08-01,Per Month,,5000.0,2.7979854504756574,False,2026-08
+MB101696,Hyderabad,Manikonda,Apartment,4.0,2167,Fully Furnished,1.0,3.0,Rent,Resale,6.8,3,Dealer,"Gym, Security",2025-09-30,Per Month,,5000.0,2.3073373327180433,False,2025-09
+MB101703,Delhi,Saket,Apartment,3.0,1914,Unfurnished,2.0,2.0,Rent,New Launch,22.2,2,Owner,Park,2025-10-05,Per Month,,5000.0,2.6123301985370952,False,2025-10
+MB101704,Noida,Sector 150,Studio Apartment,2.0,1541,Semi-Furnished,2.0,1.0,Rent,Resale,17.5,4,Dealer,"Parking, Park, Power Backup",2025-06-30,Per Month,,5000.0,3.244646333549643,False,2025-06
+MB101708,Hyderabad,Kondapur,Apartment,4.0,2598,Unfurnished,2.0,2.0,Rent,Resale,7.6,1,Owner,"Club House, Lift, Parking, Power Backup",2026-02-06,Per Month,,5000.0,1.924557351809084,False,2026-02
+MB101710,Gurugram,Golf Course Road,Builder Floor,3.0,2156,Semi-Furnished,1.0,2.0,Rent,Resale,10.8,1,Dealer,"Lift, Park",2026-07-11,Per Month,,5000.0,2.3191094619666046,False,2026-07
+MB101717,Greater Noida,Techzone 4,Builder Floor,2.0,1495,Semi-Furnished,2.0,1.0,Rent,Ready to Move,9.3,4,Owner,"Lift, Park, Security",2026-07-14,Per Month,,5000.0,3.3444816053511706,False,2026-07
+MB101720,Ghaziabad,Vaishali,Independent House,3.0,1861,Fully Furnished,2.0,1.0,Rent,Ready to Move,2.8,4,Dealer,"Power Backup, Lift, Club House",2025-08-03,Per Month,,5000.0,2.6867275658248255,False,2025-08
+MB101721,Bengaluru,HSR Layout,Villa,4.0,2169,Unfurnished,1.0,1.0,Rent,Under Construction,12.0,5,Builder,"Lift, Parking, Swimming Pool, Club House",2026-05-25,Per Month,,5000.0,2.305209774089442,False,2026-05
+MB101722,Delhi,Dwarka,Apartment,4.0,2392,Semi-Furnished,3.0,1.0,Rent,New Launch,12.1,3,Dealer,"Security, Park, Club House",2025-09-01,Per Month,,5000.0,2.0903010033444818,False,2025-09
+MB101725,Ghaziabad,Siddharth Vihar,Builder Floor,3.0,1676,Semi-Furnished,2.0,2.0,Rent,Ready to Move,1.7,5,Dealer,Park,2025-03-07,Per Month,,5000.0,2.983293556085919,False,2025-03
+MB101726,Delhi,Saket,Builder Floor,1.0,768,Semi-Furnished,1.0,2.0,Rent,Under Construction,18.7,6,Dealer,"Lift, Security, Gym, Swimming Pool",2025-01-23,Per Month,,5000.0,6.510416666666667,True,2025-01
+MB101727,Hyderabad,Kukatpally,Apartment,4.0,1848,Unfurnished,1.0,2.0,Rent,New Launch,24.7,5,Dealer,"Swimming Pool, Power Backup",2025-03-08,Per Month,,5000.0,2.705627705627706,False,2025-03
+MB101728,Hyderabad,Manikonda,Builder Floor,4.0,2502,Unfurnished,2.0,1.0,Rent,Ready to Move,2.2,5,Dealer,"Gym, Park",2026-01-06,Per Month,,5000.0,1.9984012789768186,False,2026-01
+MB101734,Lucknow,Aliganj,Apartment,2.0,1600,Semi-Furnished,2.0,4.0,Rent,Ready to Move,5.5,6,Builder,"Swimming Pool, Lift, Gym, Club House",2025-08-22,Per Month,,5000.0,3.125,False,2025-08
+MB101735,Hyderabad,Madhapur,Apartment,3.0,2011,Semi-Furnished,1.0,1.0,Rent,Under Construction,8.2,1,Owner,"Gym, Swimming Pool, Park, Security",2026-09-07,Per Month,,5000.0,2.486325211337643,False,2026-09
+MB101740,Gurugram,Sector 49,Builder Floor,5.0,2388,Fully Furnished,1.0,2.0,Rent,New Launch,22.6,0,Owner,Power Backup,2025-08-08,Per Month,,5000.0,2.0938023450586263,False,2025-08
+MB101746,Hyderabad,Manikonda,Apartment,2.0,1158,Semi-Furnished,2.0,2.0,Rent,Under Construction,2.9,5,Dealer,"Lift, Club House",2025-01-27,Per Month,,5000.0,4.317789291882556,False,2025-01
+MB101748,Gurugram,Sector 49,Apartment,2.0,1239,Semi-Furnished,2.0,4.0,Rent,New Launch,19.1,0,Owner,"Parking, Security, Power Backup, Park",2026-04-04,Per Month,,5000.0,4.035512510088782,False,2026-04
+MB101749,Ghaziabad,Siddharth Vihar,Apartment,3.0,1697,Semi-Furnished,2.0,1.0,Rent,New Launch,24.5,4,Dealer,"Gym, Power Backup",2025-10-13,Per Month,,5000.0,2.946375957572186,False,2025-10
+MB101752,Bengaluru,Electronic City,Apartment,1.0,1423,Unfurnished,2.0,0.0,Rent,Ready to Move,1.5,3,Builder,"Power Backup, Parking",2026-07-11,Per Month,,5000.0,3.5137034434293746,False,2026-07
+MB101760,Ghaziabad,Indirapuram,Apartment,3.0,1525,Fully Furnished,3.0,1.0,Rent,New Launch,14.1,5,Builder,"Swimming Pool, Club House, Parking",2025-12-06,Per Month,,5000.0,3.278688524590164,False,2025-12
+MB101766,Greater Noida,Noida Extension,Apartment,4.0,2207,Unfurnished,1.0,1.0,Rent,Under Construction,5.2,2,Owner,"Club House, Power Backup, Parking, Park",2025-08-13,Per Month,,5000.0,2.2655188038060716,False,2025-08
+MB101774,Mumbai,Thane West,Villa,4.0,2362,Semi-Furnished,2.0,3.0,Rent,Resale,11.5,3,Dealer,Gym,2026-03-20,Per Month,,5000.0,2.116850127011008,False,2026-03
+MB101780,Hyderabad,Gachibowli,Builder Floor,2.0,696,Unfurnished,3.0,1.0,Rent,Under Construction,21.0,4,Owner,"Security, Parking, Power Backup, Gym",2025-01-31,Per Month,,5000.0,7.183908045977011,True,2025-01
+MB101781,Mumbai,Powai,Studio Apartment,5.0,2954,Fully Furnished,2.0,1.0,Rent,New Launch,23.0,0,Owner,"Power Backup, Lift",2025-06-23,Per Month,,5000.0,1.6926201760324984,False,2025-06
+MB101785,Gurugram,Sohna Road,Studio Apartment,3.0,2190,Unfurnished,2.0,2.0,Rent,New Launch,21.0,1,Dealer,"Swimming Pool, Gym",2025-03-08,Per Month,,5000.0,2.2831050228310503,False,2025-03
+MB101787,Ghaziabad,Siddharth Vihar,Independent House,3.0,2050,Fully Furnished,1.0,2.0,Rent,New Launch,3.9,4,Owner,None,2026-07-28,Per Month,,5000.0,2.4390243902439024,False,2026-07
+MB101789,Greater Noida,Alpha 1,Studio Apartment,2.0,1578,Unfurnished,1.0,1.0,Rent,Resale,15.8,1,Owner,"Swimming Pool, Security, Power Backup",2026-01-15,Per Month,,5000.0,3.1685678073510775,False,2026-01
+MB101794,Pune,Kharadi,Villa,4.0,2464,Unfurnished,1.0,1.0,Rent,Ready to Move,4.8,3,Owner,"Park, Lift, Club House, Security",2026-01-29,Per Month,,5000.0,2.029220779220779,False,2026-01
+MB101798,Lucknow,Unknown,Apartment,3.0,1979,Semi-Furnished,3.0,1.0,Rent,New Launch,0.4,3,Dealer,"Swimming Pool, Gym, Security",2025-08-04,Per Month,,5000.0,2.526528549772612,False,2025-08
